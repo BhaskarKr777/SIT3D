@@ -77,7 +77,7 @@ export function TourPlayer({
   const progressPercent = ((currentStopIndex + 1) / stops.length) * 100;
 
   return (
-    <div className="absolute bottom-4 sm:bottom-6 left-3 sm:left-1/2 sm:-translate-x-1/2 z-40 w-[calc(100%-5.25rem)] sm:w-[500px] pointer-events-none animate-sit-slide-up">
+    <div className="absolute bottom-3 left-2.5 right-2.5 sm:bottom-6 sm:left-1/2 sm:right-auto sm:-translate-x-1/2 z-40 sm:w-[500px] pointer-events-none animate-sit-slide-up">
       <div className="pointer-events-auto bg-slate-950/92 backdrop-blur-xl border border-cyan-500/35 rounded-3xl shadow-2xl overflow-hidden flex flex-col transition-all">
         {/* Top Progress Line */}
         <div className="h-1.5 w-full bg-slate-800">
@@ -166,7 +166,7 @@ export function TourPlayer({
           </button>
 
           {/* Dot Step Selectors */}
-          <div className="flex items-center gap-1">
+          <div className="hidden sm:flex items-center gap-1">
             {stops.map((s, idx) => (
               <button
                 type="button"

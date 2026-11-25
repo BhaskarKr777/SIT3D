@@ -19,18 +19,19 @@ export function CampusLegend() {
   ];
 
   return (
-    <div className="absolute bottom-6 left-4 z-20 hidden md:block pointer-events-none">
-      <div className="pointer-events-auto bg-slate-950/90 backdrop-blur-xl border border-slate-800/80 rounded-2xl p-2.5 shadow-2xl transition-all w-52">
+    <div className="absolute bottom-4 left-2.5 md:bottom-6 md:left-4 z-20 pointer-events-none">
+      <div className={`pointer-events-auto bg-slate-950/90 backdrop-blur-xl border border-slate-800/80 rounded-2xl p-2.5 shadow-2xl transition-all ${isExpanded ? 'w-52' : 'w-auto md:w-52'}`}>
         <button
           type="button"
           onClick={() => setIsExpanded(!isExpanded)}
           aria-expanded={isExpanded}
           aria-label="Toggle Campus Legend"
-          className="w-full flex items-center justify-between text-[11px] font-bold text-slate-200 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400 rounded-lg"
+          className="w-full flex items-center justify-between gap-2 text-[11px] font-bold text-slate-200 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400 rounded-lg"
         >
           <div className="flex items-center gap-1.5">
             <Layers className="w-3.5 h-3.5 text-cyan-400" />
-            <span>Campus Legend</span>
+            <span className={isExpanded ? 'inline' : 'hidden sm:inline'}>Campus Legend</span>
+            {!isExpanded && <span className="sm:hidden">Legend</span>}
           </div>
           {isExpanded ? (
             <ChevronDown className="w-3.5 h-3.5 text-slate-500" />

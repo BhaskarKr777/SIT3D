@@ -168,10 +168,10 @@ export function SearchBar({
   ];
 
   return (
-    <div ref={containerRef} className="absolute top-16 sm:top-20 left-3 sm:left-4 z-20 w-[calc(100%-1.5rem)] sm:w-96 pointer-events-none">
+    <div ref={containerRef} className="absolute top-[66px] sm:top-20 left-2.5 right-2.5 sm:left-4 sm:right-auto z-20 sm:w-96 pointer-events-none">
       <div className="pointer-events-auto bg-slate-950/90 backdrop-blur-xl border border-slate-800/80 rounded-2xl shadow-2xl p-2 transition-all">
         {/* Input Bar */}
-        <div className="flex items-center gap-2 px-2.5 py-1.5 bg-slate-900/90 rounded-xl border border-slate-800 focus-within:border-cyan-500/60 focus-within:ring-1 focus-within:ring-cyan-500/30 transition-all">
+        <div className="flex items-center gap-2 px-2.5 py-2 sm:py-1.5 bg-slate-900/90 rounded-xl border border-slate-800 focus-within:border-cyan-500/60 focus-within:ring-1 focus-within:ring-cyan-500/30 transition-all">
           <Search className="w-4 h-4 text-cyan-400 flex-shrink-0" />
           <input
             type="text"
@@ -184,7 +184,7 @@ export function SearchBar({
             aria-label="Search campus buildings, labs, classrooms, and facilities"
             aria-expanded={isOpen}
             placeholder="Search buildings, labs, classrooms, canteen..."
-            className="w-full bg-transparent text-xs text-slate-100 placeholder-slate-400 outline-none"
+            className="w-full bg-transparent text-sm sm:text-xs text-slate-100 placeholder-slate-400 outline-none"
           />
           {query && (
             <button
@@ -227,7 +227,7 @@ export function SearchBar({
 
         {/* Dropdown Results List */}
         {isOpen && (
-          <div className="mt-2 pt-2 border-t border-slate-800/80 max-h-72 overflow-y-auto space-y-1 animate-sit-slide-down">
+          <div className="mt-2 pt-2 border-t border-slate-800/80 max-h-[42vh] sm:max-h-72 overflow-y-auto space-y-1 animate-sit-slide-down">
             {filteredResults.length === 0 ? (
               <div className="p-3 text-center text-xs text-slate-400">
                 No matching locations found for &quot;{query}&quot;.

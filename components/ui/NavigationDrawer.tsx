@@ -106,7 +106,7 @@ export function NavigationDrawer({
   if (!isOpen) return null;
 
   return (
-    <div className="absolute top-16 sm:top-20 left-3 sm:left-4 z-40 w-[calc(100%-1.5rem)] sm:w-96 max-h-[82vh] flex flex-col pointer-events-none animate-sit-slide-right">
+    <div className="absolute top-[66px] left-2.5 right-2.5 sm:top-20 sm:left-4 sm:right-auto z-40 sm:w-96 max-h-[calc(100dvh-82px)] sm:max-h-[82vh] flex flex-col pointer-events-none animate-sit-slide-right">
       <div className="pointer-events-auto bg-slate-950/92 backdrop-blur-xl border border-slate-800/80 rounded-3xl shadow-2xl overflow-hidden flex flex-col">
         {/* Header */}
         <div className="p-4 border-b border-slate-800/80 bg-slate-900/60 flex items-center justify-between">
@@ -142,7 +142,8 @@ export function NavigationDrawer({
                 <select
                   value={originId}
                   onChange={(e) => setOriginId(e.target.value)}
-                  className="w-full bg-transparent text-xs text-white outline-none cursor-pointer"
+                  aria-label="Starting point"
+                  className="w-full bg-transparent text-sm sm:text-xs text-white outline-none cursor-pointer"
                 >
                   {locations.map((loc) => (
                     <option key={`orig_${loc.id}`} value={loc.id} className="bg-slate-900 text-white">
@@ -172,7 +173,8 @@ export function NavigationDrawer({
                 <select
                   value={destId}
                   onChange={(e) => setDestId(e.target.value)}
-                  className="w-full bg-transparent text-xs text-white outline-none cursor-pointer"
+                  aria-label="Destination"
+                  className="w-full bg-transparent text-sm sm:text-xs text-white outline-none cursor-pointer"
                 >
                   {locations.map((loc) => (
                     <option key={`dest_${loc.id}`} value={loc.id} className="bg-slate-900 text-white">

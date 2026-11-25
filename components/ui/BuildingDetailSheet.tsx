@@ -74,8 +74,12 @@ export function BuildingDetailSheet({
   };
 
   return (
-    <div className="absolute bottom-3 sm:bottom-6 right-3 sm:right-6 z-30 w-[calc(100%-1.5rem)] sm:w-[420px] max-h-[85vh] flex flex-col pointer-events-none animate-sit-slide-up">
-      <div className="pointer-events-auto bg-slate-950/95 backdrop-blur-md border border-slate-800/80 rounded-3xl shadow-2xl overflow-hidden flex flex-col transition-all">
+    <div className="absolute bottom-0 left-0 right-0 sm:bottom-6 sm:right-6 sm:left-auto z-30 w-full sm:w-[420px] max-h-[75dvh] sm:max-h-[85vh] flex flex-col pointer-events-none animate-sit-slide-up">
+      <div className="pointer-events-auto bg-slate-950/95 backdrop-blur-md border border-slate-800/80 rounded-t-3xl sm:rounded-3xl shadow-2xl overflow-hidden flex flex-col transition-all">
+        {/* Mobile Sheet Handle */}
+        <div className="sm:hidden flex justify-center pt-2 pb-0.5">
+          <span className="w-10 h-1 rounded-full bg-slate-700" />
+        </div>
         {/* Header Banner */}
         <div className="p-4 sm:p-5 border-b border-slate-800/80 bg-gradient-to-br from-slate-900/70 to-slate-950/70 relative">
           <button

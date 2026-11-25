@@ -21,7 +21,7 @@ export function MapControls({
   is2DView,
 }: MapControlsProps) {
   return (
-    <div className="absolute bottom-6 right-4 sm:right-6 z-20 flex flex-col gap-2 pointer-events-none">
+    <div className="absolute bottom-4 right-2.5 sm:bottom-6 sm:right-6 z-20 flex flex-col gap-2 pointer-events-none">
       <div className="pointer-events-auto flex flex-col bg-slate-950/90 backdrop-blur-xl border border-slate-800/80 rounded-2xl p-1 shadow-2xl space-y-1">
         {/* Zoom In */}
         <button
@@ -29,7 +29,7 @@ export function MapControls({
           onClick={onZoomIn}
           title="Zoom In"
           aria-label="Zoom in"
-          className="p-2 rounded-xl text-slate-300 hover:text-white hover:bg-slate-800/90 transition-all active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400"
+          className="p-2.5 sm:p-2 rounded-xl text-slate-300 hover:text-white hover:bg-slate-800/90 transition-all active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400"
         >
           <Plus className="w-4 h-4" />
         </button>

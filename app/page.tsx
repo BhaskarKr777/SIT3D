@@ -770,7 +770,7 @@ export default function CampusPage() {
   if (isLoading || !activeCampusData || !navGraph) {
     return (
       <div
-        className="w-screen h-screen bg-[#070b14] flex flex-col items-center justify-center text-white px-6 animate-sit-fade"
+        className="w-screen h-[100dvh] bg-[#070b14] flex flex-col items-center justify-center text-white px-6 animate-sit-fade"
         role="status"
         aria-live="polite"
         aria-label="Loading Siliguri Institute of Technology 3D Digital Twin"
@@ -809,7 +809,7 @@ export default function CampusPage() {
   }
 
   return (
-    <main className="w-screen h-screen relative overflow-hidden bg-slate-950">
+    <main className="w-screen h-[100dvh] relative overflow-hidden bg-slate-950">
       {/* 3D WebGL Canvas */}
       <CampusCanvas
         campusData={activeCampusData}
