@@ -11,7 +11,8 @@ import {
 
 const googleVerification = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION;
 const bingVerification = process.env.NEXT_PUBLIC_BING_SITE_VERIFICATION;
-const gaMeasurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+const rawGaId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+const gaMeasurementId = rawGaId && /^G-[A-Z0-9]+$/i.test(rawGaId) ? rawGaId : undefined;
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

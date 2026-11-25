@@ -5,6 +5,9 @@ import { Building } from '@/types/campus';
 import { BuildingConfig } from '@/types/buildingEditor';
 
 export async function POST(req: NextRequest) {
+  if (process.env.NODE_ENV !== 'development') {
+    return NextResponse.json({ error: 'Editing endpoints are disabled in production' }, { status: 403 });
+  }
   try {
     const body = await req.json();
     const buildings: Building[] = body.buildings;
@@ -43,10 +46,10 @@ export async function POST(req: NextRequest) {
       message: 'All campus buildings successfully saved and persisted!',
       count: buildings.length,
     });
-  } catch (err: any) {
+  } catch (err) {
     console.error('Error saving campus buildings:', err);
     return NextResponse.json(
-      { error: err.message || 'Failed to save campus buildings' },
+      { error: 'Failed to save campus buildings' },
       { status: 500 }
     );
   }
@@ -64,7 +67,7 @@ export async function GET() {
       });
     }
     return NextResponse.json({ success: false, message: 'No custom buildings saved yet' });
-  } catch (err: any) {
-    return NextResponse.json({ error: err.message }, { status: 500 });
+  } catch {
+    return NextResponse.json({ error: 'Failed to load campus buildings' }, { status: 500 });
   }
 }

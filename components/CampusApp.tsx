@@ -105,15 +105,15 @@ export default function CampusPage() {
     setHistoryIndex((prev) => Math.min(prev + 1, 29));
   }, [historyIndex]);
 
-  // Load saved building configuration and custom building overrides on mount
+  // Load saved building configuration on mount (static JSON + optional localStorage override)
   useEffect(() => {
     try {
       const savedConfig = localStorage.getItem('sit_building_config');
       if (savedConfig) {
         setBuildingConfig(JSON.parse(savedConfig));
       } else {
-        fetch('/api/save-building-config')
-          .then((res) => res.json())
+        fetch('/data/building_config.json')
+          .then((res) => (res.ok ? res.json() : null))
           .then((data) => {
             if (data && typeof data.posX === 'number') {
               setBuildingConfig(data);
@@ -162,25 +162,17 @@ export default function CampusPage() {
         setLoadStatus('Loading campus geometry & buildings...');
         const campusPromise = fetch('/data/sit_campus_processed.json').then((res) => res.json());
         const navPromise = fetch('/data/nav_graph.json').then((res) => res.json());
-        const customPromise = fetch('/api/save-buildings')
-          .then((res) => (res.ok ? res.json() : null))
-          .catch(() => null);
 
         const cData: CampusData = await campusPromise;
         setLoadProgress(60);
         setLoadStatus('Loading campus walking network...');
 
-        const [nData, customData] = await Promise.all([navPromise, customPromise]);
+        const nData = await navPromise;
         setLoadProgress(85);
         setLoadStatus('Configuring lighting & 3D scene...');
 
         let initialBuildings = cData.buildings || [];
         originalBuildingsRef.current = JSON.parse(JSON.stringify(initialBuildings));
-
-        // 1. Try server-saved custom buildings
-        if (customData && customData.success && Array.isArray(customData.buildings) && customData.buildings.length > 0) {
-          initialBuildings = customData.buildings;
-        }
 
         // 2. Try localStorage overrides (client takes priority)
         try {

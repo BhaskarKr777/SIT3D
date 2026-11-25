@@ -4,6 +4,9 @@ import path from 'path';
 import { BuildingConfig } from '@/types/buildingEditor';
 
 export async function POST(req: NextRequest) {
+  if (process.env.NODE_ENV !== 'development') {
+    return NextResponse.json({ error: 'Editing endpoints are disabled in production' }, { status: 403 });
+  }
   try {
     const body = await req.json();
     const config: BuildingConfig = body.config;
@@ -70,10 +73,10 @@ export async function POST(req: NextRequest) {
       message: 'Building configuration successfully updated and saved to codebase!',
       config,
     });
-  } catch (err: any) {
+  } catch (err) {
     console.error('Error saving building config:', err);
     return NextResponse.json(
-      { error: err.message || 'Failed to save configuration' },
+      { error: 'Failed to save configuration' },
       { status: 500 }
     );
   }
@@ -88,7 +91,7 @@ export async function GET() {
       return NextResponse.json(JSON.parse(data));
     }
     return NextResponse.json({ message: 'No custom config saved yet' });
-  } catch (err: any) {
-    return NextResponse.json({ error: err.message }, { status: 500 });
+  } catch {
+    return NextResponse.json({ error: 'Failed to read configuration' }, { status: 500 });
   }
 }
