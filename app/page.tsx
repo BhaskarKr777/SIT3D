@@ -16,25 +16,13 @@ import { CameraTarget } from '@/components/canvas/CameraController';
 import { Header } from '@/components/ui/Header';
 import { SearchBar } from '@/components/ui/SearchBar';
 import { MapControls } from '@/components/ui/MapControls';
+import { CampusLoader } from '@/components/ui/CampusLoader';
 
 const CampusCanvas = dynamic(
   () => import('@/components/canvas/CampusCanvas').then((m) => m.CampusCanvas),
   {
     ssr: false,
-    loading: () => (
-      <div className="w-full h-full bg-[#070b14] flex flex-col items-center justify-center text-white animate-sit-fade">
-        <div className="w-14 h-14 rounded-2xl bg-white p-1 flex items-center justify-center shadow-lg mb-3 overflow-hidden">
-          <img
-            src="/sit-logo.webp"
-            alt="SIT Logo"
-            className="w-full h-full object-contain"
-          />
-        </div>
-        <p className="text-xs text-cyan-400 font-medium tracking-wide">
-          Initializing 3D WebGL Campus...
-        </p>
-      </div>
-    ),
+    loading: () => <CampusLoader status="Initializing 3D WebGL Campus..." />,
   }
 );
 const BuildingDetailSheet = dynamic(
@@ -769,41 +757,8 @@ export default function CampusPage() {
 
   if (isLoading || !activeCampusData || !navGraph) {
     return (
-      <div
-        className="w-screen h-[100dvh] bg-[#070b14] flex flex-col items-center justify-center text-white px-6 animate-sit-fade"
-        role="status"
-        aria-live="polite"
-        aria-label="Loading Siliguri Institute of Technology 3D Digital Twin"
-      >
-        <div className="relative mb-5">
-          <div className="w-16 h-16 rounded-2xl bg-white p-1 flex items-center justify-center shadow-2xl shadow-indigo-600/30 ring-1 ring-white/20 overflow-hidden">
-            <img
-              src="/sit-logo.webp"
-              alt="Siliguri Institute of Technology Logo"
-              className="w-full h-full object-contain"
-            />
-          </div>
-          <span className="absolute -bottom-1 -right-1 w-3.5 h-3.5 rounded-full bg-emerald-400 border-2 border-[#070b14] animate-pulse" />
-        </div>
-
-        <h2 className="text-lg sm:text-xl font-bold tracking-tight text-slate-50 text-center">
-          Siliguri Institute of Technology
-        </h2>
-        <p className="text-[11px] uppercase tracking-widest text-cyan-400 font-semibold mt-1">
-          3D Campus Digital Twin
-        </p>
-
-        <div className="w-64 sm:w-72 h-1.5 bg-slate-800/90 rounded-full overflow-hidden mt-6 ring-1 ring-slate-700/50">
-          <div
-            className="h-full bg-gradient-to-r from-indigo-500 via-blue-500 to-cyan-400 rounded-full transition-all duration-300 ease-out"
-            style={{ width: `${loadProgress}%` }}
-          />
-        </div>
-
-        <div className="flex items-center justify-between w-64 sm:w-72 mt-2.5 text-[11px] text-slate-400">
-          <span>{loadStatus}</span>
-          <span className="font-mono text-slate-300 font-medium">{loadProgress}%</span>
-        </div>
+      <div className="w-screen h-[100dvh]">
+        <CampusLoader progress={loadProgress} status={loadStatus} />
       </div>
     );
   }
