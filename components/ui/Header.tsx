@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
+import Link from 'next/link';
 import {
   Compass,
   Navigation,
@@ -227,12 +228,20 @@ export function Header({
               </p>
             </div>
 
-            <div className="pt-3 border-t border-slate-800 flex justify-end">
-              <button
+            <div className="pt-3 border-t border-slate-800 flex items-center justify-between gap-2">
+              <Link
+                href="/campus-guide"
                 onClick={() => setShowInfo(false)}
-                className="px-4 py-1.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-medium text-xs transition-all"
+                className="text-xs font-semibold text-cyan-400 hover:text-cyan-300 transition-colors"
               >
-                Close & Explore
+                Campus Guide &amp; FAQ →
+              </Link>
+              <button
+                type="button"
+                onClick={() => setShowInfo(false)}
+                className="px-4 py-1.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-medium text-xs transition-all"
+              >
+                Close &amp; Explore
               </button>
             </div>
           </div>

@@ -1,0 +1,20 @@
+# SIT 3D Digital Twin — Siliguri Institute of Technology
+
+> Interactive 3D campus exploration, building directory, walking navigation, and virtual fresher tour for Siliguri Institute of Technology (SIT), Salbari, West Bengal, India.
+
+## Overview
+- **Institution:** Siliguri Institute of Technology (SIT)
+- **Official Institution Website:** https://www.sittechno.org
+- **Platform:** SIT 3D Digital Twin (WebGL / Three.js interactive campus map)
+- **Primary Capabilities:**
+  - Interactive 3D campus map with Day Mode and Night Mode lighting
+  - Building directory with floor-by-floor room, lab, and department listings
+  - Real-time search across academic blocks, laboratories, hostels, canteen, and sports facilities
+  - A* graph-based campus walking directions between any two campus locations
+  - Guided 9-stop Fresher Orientation Virtual Tour
+
+## Public Pages
+- `/` — Interactive 3D Campus Digital Twin (WebGL map, search, building explorer, directions, and virtual tour)
+- `/campus-guide` — Crawlable guide, building directory overview, and frequently asked questions about the SIT 3D Digital Twin
+- `/sitemap.xml` — XML sitemap of public pages
+- `/robots.txt` — Search engine crawler directives
