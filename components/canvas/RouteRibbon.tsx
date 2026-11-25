@@ -74,7 +74,7 @@ export function RouteRibbon({ route }: RouteRibbonProps) {
           <cylinderGeometry args={[0.3, 0.3, 1, 16]} />
           <meshStandardMaterial color="#10b981" emissive="#059669" emissiveIntensity={0.6} />
         </mesh>
-        <Html position={[0, 2.5, 0]} center distanceFactor={80} zIndexRange={[100, 0]}>
+        <Html position={[0, 2.5, 0]} center distanceFactor={80} zIndexRange={[10, 0]}>
           <div className="bg-emerald-600 text-white font-bold text-xs px-2.5 py-1 rounded-full shadow-lg flex items-center gap-1 border border-emerald-400">
             <span>🟢 Start: {route.originName}</span>
           </div>
@@ -102,7 +102,7 @@ export function RouteRibbon({ route }: RouteRibbonProps) {
           </mesh>
         </group>
 
-        <Html position={[0, 4.2, 0]} center distanceFactor={80} zIndexRange={[100, 0]}>
+        <Html position={[0, 4.2, 0]} center distanceFactor={80} zIndexRange={[10, 0]}>
           <div className="bg-rose-600 text-white font-bold text-xs px-2.5 py-1 rounded-full shadow-lg flex items-center gap-1.5 border border-rose-400 animate-bounce">
             <span>🏁 {route.destinationName}</span>
             <span className="text-[10px] bg-rose-700 px-1 rounded font-normal">

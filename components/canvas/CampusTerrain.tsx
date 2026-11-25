@@ -292,7 +292,7 @@ export function CampusTerrain({ boundary }: CampusTerrainProps) {
           <meshStandardMaterial color="#334155" roughness={0.4} metalness={0.7} />
         </mesh>
         {/* Floating Main Gate Label */}
-        <Html position={[0, 6.4, 0]} center distanceFactor={95} zIndexRange={[80, 0]}>
+        <Html position={[0, 6.4, 0]} center distanceFactor={95} zIndexRange={[10, 0]}>
           <div className="px-2.5 py-0.5 rounded-full text-[11px] font-semibold whitespace-nowrap shadow-md bg-slate-900/85 text-amber-100 backdrop-blur-sm border border-amber-400/50 flex items-center gap-1.5 pointer-events-none">
             <span className="w-2 h-2 rounded-full bg-amber-400 flex-shrink-0" />
             <span>Main Gate</span>

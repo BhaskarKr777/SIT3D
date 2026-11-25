@@ -517,7 +517,7 @@ export function MainBuildingDetailed({
               <meshStandardMaterial color="#fffbeb" emissive="#fef08a" emissiveIntensity={2.8} />
             </mesh>
           )}
-          <Html position={[0, 7.8, -6.48]} rotation={[0, Math.PI, 0]} center distanceFactor={42} transform>
+          <Html position={[0, 7.8, -6.48]} rotation={[0, Math.PI, 0]} center distanceFactor={42} transform zIndexRange={[10, 0]}>
             <div
               className="bg-white/95 text-slate-900 px-3.5 py-0.5 rounded-sm font-bold text-[11px] tracking-wider border border-amber-500/40 shadow-sm pointer-events-none select-none whitespace-nowrap"
               style={{ backfaceVisibility: 'hidden' }}
@@ -1358,7 +1358,7 @@ export function MainBuildingDetailed({
               <boxGeometry args={[2.4, 0.7, 0.08]} />
               <meshStandardMaterial color="#ffffff" roughness={0.3} />
             </mesh>
-            <Html position={[0, 2.0, 0.05]} center distanceFactor={35} transform>
+            <Html position={[0, 2.0, 0.05]} center distanceFactor={35} transform zIndexRange={[10, 0]}>
               <div
                 className="bg-slate-900/90 text-amber-300 px-2.5 py-0.5 rounded font-bold text-[10px] tracking-wider border border-amber-400/40 shadow-sm pointer-events-none select-none whitespace-nowrap"
                 style={{ backfaceVisibility: 'hidden' }}
@@ -1430,7 +1430,7 @@ export function MainBuildingDetailed({
           position={[0, TOTAL_H + 15.0, -2.0]}
           center
           distanceFactor={90}
-          zIndexRange={[100, 0]}
+          zIndexRange={[10, 0]}
         >
           <div
             onClick={(e) => {

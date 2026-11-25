@@ -74,8 +74,8 @@ export function BuildingDetailSheet({
   };
 
   return (
-    <div className="absolute bottom-0 left-0 right-0 sm:bottom-6 sm:right-6 sm:left-auto z-30 w-full sm:w-[420px] max-h-[75dvh] sm:max-h-[85vh] flex flex-col pointer-events-none animate-sit-slide-up">
-      <div className="pointer-events-auto bg-slate-950/95 backdrop-blur-md border border-slate-800/80 rounded-t-3xl sm:rounded-3xl shadow-2xl overflow-hidden flex flex-col transition-all">
+    <div className="absolute bottom-0 left-0 right-0 sm:bottom-6 sm:right-6 sm:left-auto z-30 w-full sm:w-[420px] max-h-[54dvh] sm:max-h-[85vh] flex flex-col pointer-events-none animate-sit-slide-up">
+      <div className="pointer-events-auto bg-slate-950/98 backdrop-blur-md border border-slate-800/90 rounded-t-3xl sm:rounded-3xl shadow-2xl overflow-hidden flex flex-col transition-all">
         {/* Mobile Sheet Handle */}
         <div className="sm:hidden flex justify-center pt-2 pb-0.5">
           <span className="w-10 h-1 rounded-full bg-slate-700" />
@@ -131,7 +131,7 @@ export function BuildingDetailSheet({
         </div>
 
         {/* Body Content with Scroll */}
-        <div className="p-4 sm:p-5 overflow-y-auto space-y-4 max-h-[50vh]">
+        <div className="p-4 sm:p-5 overflow-y-auto space-y-4 max-h-[30dvh] sm:max-h-[50vh]">
           {/* Description */}
           <div>
             <h4 className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-1">

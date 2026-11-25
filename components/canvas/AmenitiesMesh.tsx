@@ -121,7 +121,7 @@ function AmenityItem({
         position={isCentralGarden ? [0.45, 3.0, -1.75] : [0, 2, 0]}
         center
         distanceFactor={100}
-        zIndexRange={[80, 0]}
+        zIndexRange={[10, 0]}
       >
         <div
           onClick={(e) => {

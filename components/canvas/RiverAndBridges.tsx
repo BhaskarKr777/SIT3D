@@ -443,7 +443,7 @@ function SimpleConcreteBridge({
       </mesh>
 
       {/* Floating Bridge Name Label */}
-      <Html position={[0, 2.2, 0]} center distanceFactor={95} zIndexRange={[80, 0]}>
+      <Html position={[0, 2.2, 0]} center distanceFactor={95} zIndexRange={[10, 0]}>
         <div className="px-2.5 py-0.5 rounded-full text-[11px] font-semibold whitespace-nowrap shadow-md bg-slate-900/80 text-sky-100 backdrop-blur-sm border border-sky-500/40 flex items-center gap-1.5 pointer-events-none">
           <span className="w-2 h-2 rounded-full bg-sky-400 flex-shrink-0" />
           <span>{label}</span>

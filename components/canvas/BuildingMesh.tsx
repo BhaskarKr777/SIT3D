@@ -533,7 +533,7 @@ export function BuildingMesh({
             }
             center
             distanceFactor={90}
-            zIndexRange={[100, 0]}
+            zIndexRange={[10, 0]}
           >
             <div
               onClick={(e) => {

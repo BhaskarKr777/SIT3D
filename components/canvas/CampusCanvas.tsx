@@ -33,8 +33,10 @@ interface CampusCanvasProps {
 }
 
 export function CampusCanvas(props: CampusCanvasProps) {
+  const initialFov = typeof window !== 'undefined' && window.innerWidth < 640 ? 56 : 45;
+
   return (
-    <div className="w-full h-full relative select-none">
+    <div className="w-full h-full relative select-none overflow-hidden">
       <Canvas
         shadows
         dpr={[1, 2]}
@@ -45,7 +47,7 @@ export function CampusCanvas(props: CampusCanvasProps) {
         }}
         camera={{
           position: [62, 26, -78],
-          fov: 45,
+          fov: initialFov,
           near: 1,
           far: 800,
         }}
