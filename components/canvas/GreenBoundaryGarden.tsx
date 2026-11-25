@@ -113,6 +113,27 @@ export function GreenBoundaryGarden({
         }
       }
 
+      // Avoid river channel (8.5m clearance)
+      const riverPts: [number, number][] = [
+        [-32, 175],
+        [6, 152],
+        [34, 112],
+        [46, 74],
+        [57.6, 32.6],
+        [67, 0],
+        [75, -26],
+        [81.84, -52.49],
+        [88, -82],
+        [96, -125],
+      ];
+      for (let i = 0; i < riverPts.length - 1; i++) {
+        if (distToSeg(x, z, riverPts[i], riverPts[i + 1]) < 8.5) return false;
+      }
+
+      // Avoid landmark big trees & their circular rock sitting areas
+      if (Math.hypot(x - 22, z - -52) < 6.0) return false;
+      if (Math.hypot(x - 38, z - -58) < 6.0) return false;
+
       // Avoid Rear Parking, Basketball Court, Volleyball Court, Central Garden & SIT Sports Ground
       if (x >= -34 && x <= 8 && z >= 16 && z <= 44) return false;
       if (x >= -65 && x <= -24 && z >= -87 && z <= -46) return false;
