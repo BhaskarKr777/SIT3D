@@ -1,0 +1,7130 @@
+{
+  "center": [
+    26.76929,
+    88.3762
+  ],
+  "boundary": [
+    [
+      136.17,
+      -116.66
+    ],
+    [
+      107.44,
+      -144.59
+    ],
+    [
+      97.84,
+      -117
+    ],
+    [
+      92.91,
+      -103.93
+    ],
+    [
+      86.11,
+      -85.94
+    ],
+    [
+      23.33,
+      -76.08
+    ],
+    [
+      2.41,
+      -112.73
+    ],
+    [
+      -32.25,
+      -110.87
+    ],
+    [
+      -40.98,
+      -106.6
+    ],
+    [
+      -44.18,
+      -106.07
+    ],
+    [
+      -46.84,
+      -111.53
+    ],
+    [
+      -47.26,
+      -113.02
+    ],
+    [
+      -48.06,
+      -114.34
+    ],
+    [
+      -49.18,
+      -115.4
+    ],
+    [
+      -50.57,
+      -116.14
+    ],
+    [
+      -52.11,
+      -116.46
+    ],
+    [
+      -53.49,
+      -116.15
+    ],
+    [
+      -54.61,
+      -115.3
+    ],
+    [
+      -55.31,
+      -114.07
+    ],
+    [
+      -57.18,
+      -104.74
+    ],
+    [
+      -60.04,
+      -102.87
+    ],
+    [
+      -73.44,
+      -109.54
+    ],
+    [
+      -81.44,
+      -126.99
+    ],
+    [
+      -85.24,
+      -126.83
+    ],
+    [
+      -88.9,
+      -125.8
+    ],
+    [
+      -91.45,
+      -124.5
+    ],
+    [
+      -93.73,
+      -122.8
+    ],
+    [
+      -95.7,
+      -120.74
+    ],
+    [
+      -85.56,
+      -103.27
+    ],
+    [
+      -101.03,
+      -92.47
+    ],
+    [
+      -108.49,
+      -95.94
+    ],
+    [
+      -120.76,
+      -89.81
+    ],
+    [
+      -122.22,
+      -87.91
+    ],
+    [
+      -123.09,
+      -85.67
+    ],
+    [
+      -123.29,
+      -83.46
+    ],
+    [
+      -122.9,
+      -81.25
+    ],
+    [
+      -121.95,
+      -79.24
+    ],
+    [
+      -120.49,
+      -77.55
+    ],
+    [
+      -116.76,
+      -66.88
+    ],
+    [
+      -144.48,
+      -63.82
+    ],
+    [
+      -148.28,
+      -78.95
+    ],
+    [
+      -153.86,
+      -80.03
+    ],
+    [
+      -159.55,
+      -80.35
+    ],
+    [
+      -165.75,
+      -79.83
+    ],
+    [
+      -171.8,
+      -78.41
+    ],
+    [
+      -168.87,
+      -41.42
+    ],
+    [
+      -165.88,
+      -21.96
+    ],
+    [
+      -111.56,
+      -29.43
+    ],
+    [
+      -58.78,
+      -36.89
+    ],
+    [
+      -51.58,
+      -34.5
+    ],
+    [
+      -43.31,
+      15.23
+    ],
+    [
+      -22.52,
+      46.54
+    ],
+    [
+      -15.59,
+      51.87
+    ],
+    [
+      -10.92,
+      54.55
+    ],
+    [
+      0.27,
+      54.28
+    ],
+    [
+      23.33,
+      75.74
+    ],
+    [
+      26.88,
+      77.39
+    ],
+    [
+      30.66,
+      78.4
+    ],
+    [
+      33.58,
+      78.73
+    ],
+    [
+      36.53,
+      78.67
+    ],
+    [
+      42.53,
+      76.54
+    ],
+    [
+      27.6,
+      116.42
+    ],
+    [
+      36.46,
+      120.53
+    ],
+    [
+      31.09,
+      129.95
+    ],
+    [
+      26.33,
+      139.72
+    ],
+    [
+      22.2,
+      149.76
+    ],
+    [
+      18.73,
+      160.04
+    ],
+    [
+      16.19,
+      169.44
+    ],
+    [
+      14.18,
+      178.96
+    ],
+    [
+      12.73,
+      188.58
+    ],
+    [
+      12.21,
+      197.36
+    ],
+    [
+      12.46,
+      206.15
+    ],
+    [
+      13.47,
+      214.89
+    ],
+    [
+      14.25,
+      219.81
+    ],
+    [
+      14.49,
+      224.79
+    ],
+    [
+      14.2,
+      229.76
+    ],
+    [
+      13.06,
+      235.96
+    ],
+    [
+      11.07,
+      241.95
+    ],
+    [
+      82.78,
+      230.09
+    ],
+    [
+      82.14,
+      226.2
+    ],
+    [
+      86.35,
+      223.15
+    ],
+    [
+      90.06,
+      219.51
+    ],
+    [
+      93.18,
+      215.36
+    ],
+    [
+      95.67,
+      210.74
+    ],
+    [
+      97.43,
+      205.79
+    ],
+    [
+      98.43,
+      200.62
+    ],
+    [
+      98.64,
+      195.37
+    ],
+    [
+      100.03,
+      188.56
+    ],
+    [
+      100.44,
+      181.64
+    ],
+    [
+      100.06,
+      176.13
+    ],
+    [
+      99.08,
+      170.69
+    ],
+    [
+      97.49,
+      165.4
+    ],
+    [
+      95.3,
+      160.31
+    ],
+    [
+      91.1,
+      152.39
+    ],
+    [
+      88.71,
+      148.58
+    ],
+    [
+      86.11,
+      144.92
+    ],
+    [
+      80.45,
+      138.27
+    ],
+    [
+      77.7,
+      135.56
+    ],
+    [
+      74.64,
+      133.2
+    ],
+    [
+      71.31,
+      131.26
+    ],
+    [
+      67.58,
+      129.66
+    ],
+    [
+      63.67,
+      128.56
+    ],
+    [
+      49.62,
+      124.41
+    ],
+    [
+      57.72,
+      106.4
+    ],
+    [
+      81.85,
+      68.27
+    ],
+    [
+      107.24,
+      21.35
+    ],
+    [
+      123.63,
+      20.83
+    ],
+    [
+      122.38,
+      13
+    ],
+    [
+      122.1,
+      5.1
+    ],
+    [
+      122.51,
+      -0.6
+    ],
+    [
+      123.43,
+      -6.23
+    ],
+    [
+      132.89,
+      -54.36
+    ],
+    [
+      140.5,
+      -74.22
+    ],
+    [
+      134.76,
+      -79.42
+    ],
+    [
+      145.16,
+      -88.21
+    ],
+    [
+      141.96,
+      -93.27
+    ],
+    [
+      158.75,
+      -99.54
+    ],
+    [
+      153.64,
+      -115.42
+    ],
+    [
+      151.41,
+      -122.33
+    ],
+    [
+      136.17,
+      -116.66
+    ]
+  ],
+  "boundaryGeo": [
+    [
+      26.770338,
+      88.3775701
+    ],
+    [
+      26.7705889,
+      88.377281
+    ],
+    [
+      26.770341,
+      88.3771844
+    ],
+    [
+      26.7702236,
+      88.3771348
+    ],
+    [
+      26.770062,
+      88.3770664
+    ],
+    [
+      26.7699734,
+      88.3764347
+    ],
+    [
+      26.7703027,
+      88.3762242
+    ],
+    [
+      26.770286,
+      88.3758755
+    ],
+    [
+      26.7702476,
+      88.3757877
+    ],
+    [
+      26.7702428,
+      88.3757555
+    ],
+    [
+      26.7702919,
+      88.3757287
+    ],
+    [
+      26.7703053,
+      88.3757245
+    ],
+    [
+      26.7703171,
+      88.3757164
+    ],
+    [
+      26.7703267,
+      88.3757052
+    ],
+    [
+      26.7703333,
+      88.3756912
+    ],
+    [
+      26.7703362,
+      88.3756757
+    ],
+    [
+      26.7703334,
+      88.3756618
+    ],
+    [
+      26.7703258,
+      88.3756505
+    ],
+    [
+      26.7703147,
+      88.3756435
+    ],
+    [
+      26.7702309,
+      88.3756247
+    ],
+    [
+      26.7702141,
+      88.3755959
+    ],
+    [
+      26.770274,
+      88.3754611
+    ],
+    [
+      26.7704308,
+      88.3753806
+    ],
+    [
+      26.7704293,
+      88.3753424
+    ],
+    [
+      26.7704201,
+      88.3753055
+    ],
+    [
+      26.7704084,
+      88.3752799
+    ],
+    [
+      26.7703931,
+      88.3752569
+    ],
+    [
+      26.7703746,
+      88.3752371
+    ],
+    [
+      26.7702177,
+      88.3753391
+    ],
+    [
+      26.7701207,
+      88.3751835
+    ],
+    [
+      26.7701518,
+      88.3751084
+    ],
+    [
+      26.7700968,
+      88.374985
+    ],
+    [
+      26.7700797,
+      88.3749703
+    ],
+    [
+      26.7700596,
+      88.3749615
+    ],
+    [
+      26.7700397,
+      88.3749595
+    ],
+    [
+      26.7700199,
+      88.3749634
+    ],
+    [
+      26.7700018,
+      88.374973
+    ],
+    [
+      26.7699866,
+      88.3749877
+    ],
+    [
+      26.7698908,
+      88.3750252
+    ],
+    [
+      26.7698633,
+      88.3747463
+    ],
+    [
+      26.7699992,
+      88.3747081
+    ],
+    [
+      26.7700089,
+      88.3746519
+    ],
+    [
+      26.7700118,
+      88.3745947
+    ],
+    [
+      26.7700071,
+      88.3745323
+    ],
+    [
+      26.7699944,
+      88.3744714
+    ],
+    [
+      26.7696621,
+      88.3745009
+    ],
+    [
+      26.7694873,
+      88.374531
+    ],
+    [
+      26.7695544,
+      88.3750775
+    ],
+    [
+      26.7696214,
+      88.3756086
+    ],
+    [
+      26.7695999,
+      88.375681
+    ],
+    [
+      26.7691532,
+      88.3757642
+    ],
+    [
+      26.7688719,
+      88.3759734
+    ],
+    [
+      26.768824,
+      88.3760431
+    ],
+    [
+      26.7688,
+      88.3760901
+    ],
+    [
+      26.7688024,
+      88.3762027
+    ],
+    [
+      26.7686096,
+      88.3764347
+    ],
+    [
+      26.7685948,
+      88.3764705
+    ],
+    [
+      26.7685857,
+      88.3765085
+    ],
+    [
+      26.7685828,
+      88.3765379
+    ],
+    [
+      26.7685833,
+      88.3765675
+    ],
+    [
+      26.7686024,
+      88.3766279
+    ],
+    [
+      26.7682442,
+      88.3764777
+    ],
+    [
+      26.7682073,
+      88.3765668
+    ],
+    [
+      26.7681226,
+      88.3765128
+    ],
+    [
+      26.7680349,
+      88.3764649
+    ],
+    [
+      26.7679447,
+      88.3764234
+    ],
+    [
+      26.7678523,
+      88.3763885
+    ],
+    [
+      26.7677679,
+      88.3763629
+    ],
+    [
+      26.7676824,
+      88.3763427
+    ],
+    [
+      26.767596,
+      88.3763281
+    ],
+    [
+      26.7675171,
+      88.3763229
+    ],
+    [
+      26.7674381,
+      88.3763254
+    ],
+    [
+      26.7673596,
+      88.3763355
+    ],
+    [
+      26.7673154,
+      88.3763434
+    ],
+    [
+      26.7672707,
+      88.3763458
+    ],
+    [
+      26.767226,
+      88.3763429
+    ],
+    [
+      26.7671703,
+      88.3763314
+    ],
+    [
+      26.7671165,
+      88.3763114
+    ],
+    [
+      26.7672231,
+      88.3770329
+    ],
+    [
+      26.767258,
+      88.3770264
+    ],
+    [
+      26.7672854,
+      88.3770688
+    ],
+    [
+      26.7673181,
+      88.3771061
+    ],
+    [
+      26.7673554,
+      88.3771375
+    ],
+    [
+      26.7673969,
+      88.3771626
+    ],
+    [
+      26.7674414,
+      88.3771803
+    ],
+    [
+      26.7674878,
+      88.3771904
+    ],
+    [
+      26.767535,
+      88.3771925
+    ],
+    [
+      26.7675961,
+      88.3772064
+    ],
+    [
+      26.7676583,
+      88.3772106
+    ],
+    [
+      26.7677078,
+      88.3772068
+    ],
+    [
+      26.7677567,
+      88.3771969
+    ],
+    [
+      26.7678042,
+      88.3771809
+    ],
+    [
+      26.7678499,
+      88.3771589
+    ],
+    [
+      26.7679211,
+      88.3771166
+    ],
+    [
+      26.7679553,
+      88.3770926
+    ],
+    [
+      26.7679882,
+      88.3770664
+    ],
+    [
+      26.7680479,
+      88.3770094
+    ],
+    [
+      26.7680722,
+      88.3769818
+    ],
+    [
+      26.7680934,
+      88.376951
+    ],
+    [
+      26.7681109,
+      88.3769175
+    ],
+    [
+      26.7681252,
+      88.37688
+    ],
+    [
+      26.7681351,
+      88.3768406
+    ],
+    [
+      26.7681724,
+      88.3766993
+    ],
+    [
+      26.7683342,
+      88.3767807
+    ],
+    [
+      26.7686767,
+      88.3770235
+    ],
+    [
+      26.7690982,
+      88.377279
+    ],
+    [
+      26.7691029,
+      88.3774439
+    ],
+    [
+      26.7691732,
+      88.3774313
+    ],
+    [
+      26.7692442,
+      88.3774285
+    ],
+    [
+      26.7692954,
+      88.3774326
+    ],
+    [
+      26.769346,
+      88.3774419
+    ],
+    [
+      26.7697783,
+      88.3775371
+    ],
+    [
+      26.7699567,
+      88.3776136
+    ],
+    [
+      26.7700034,
+      88.3775559
+    ],
+    [
+      26.7700824,
+      88.3776605
+    ],
+    [
+      26.7701279,
+      88.3776283
+    ],
+    [
+      26.7701842,
+      88.3777973
+    ],
+    [
+      26.7703268,
+      88.3777458
+    ],
+    [
+      26.7703889,
+      88.3777234
+    ],
+    [
+      26.770338,
+      88.3775701
+    ]
+  ],
+  "buildings": [
+    {
+      "id": "main-academic-block",
+      "osmId": 1469221648,
+      "name": "Main Academic & Technology Block",
+      "shortName": "Academic Block A",
+      "category": "academic",
+      "levels": 5,
+      "height": 18,
+      "color": "#e0e7ff",
+      "accentColor": "#3b82f6",
+      "description": "Primary academic building housing Engineering departments (CSE, ECE, EE, IT, ECS), Dean & HOD offices, state-of-the-art computer centers, and central lecture theatres.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "G01",
+              "name": "Department of Computer Science & Engineering",
+              "type": "department"
+            },
+            {
+              "code": "G02",
+              "name": "Turing Advanced Computing Lab",
+              "type": "lab"
+            },
+            {
+              "code": "G03",
+              "name": "Artificial Intelligence & ML Lab",
+              "type": "lab"
+            },
+            {
+              "code": "G04",
+              "name": "Faculty Enclave (CSE)",
+              "type": "faculty"
+            },
+            {
+              "code": "G05",
+              "name": "HOD Room - Computer Science",
+              "type": "office"
+            },
+            {
+              "code": "G06",
+              "name": "Main Lecture Hall 1",
+              "type": "classroom"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "101",
+              "name": "Electronics & Communication Engg. Dept",
+              "type": "department"
+            },
+            {
+              "code": "102",
+              "name": "VLSI Design & Embedded Systems Lab",
+              "type": "lab"
+            },
+            {
+              "code": "103",
+              "name": "Digital Signal Processing (DSP) Lab",
+              "type": "lab"
+            },
+            {
+              "code": "104",
+              "name": "Smart Classroom 104",
+              "type": "classroom"
+            },
+            {
+              "code": "105",
+              "name": "Faculty Enclave (ECE)",
+              "type": "faculty"
+            },
+            {
+              "code": "106",
+              "name": "Seminar Hall Alpha",
+              "type": "hall"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "201",
+              "name": "Electrical Engineering Department",
+              "type": "department"
+            },
+            {
+              "code": "202",
+              "name": "Power Systems & Electrical Machines Lab",
+              "type": "lab"
+            },
+            {
+              "code": "203",
+              "name": "Control Systems & Automation Lab",
+              "type": "lab"
+            },
+            {
+              "code": "204",
+              "name": "Classroom 204",
+              "type": "classroom"
+            },
+            {
+              "code": "205",
+              "name": "Faculty Enclave (EE)",
+              "type": "faculty"
+            },
+            {
+              "code": "206",
+              "name": "Classroom 206",
+              "type": "classroom"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Third Floor",
+          "rooms": [
+            {
+              "code": "301",
+              "name": "Information Technology Department",
+              "type": "department"
+            },
+            {
+              "code": "302",
+              "name": "Software Engineering & Cloud Computing Lab",
+              "type": "lab"
+            },
+            {
+              "code": "303",
+              "name": "Network Security & Cyber Lab",
+              "type": "lab"
+            },
+            {
+              "code": "304",
+              "name": "Smart Classroom 304",
+              "type": "classroom"
+            },
+            {
+              "code": "305",
+              "name": "Faculty Enclave (IT)",
+              "type": "faculty"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fourth Floor",
+          "rooms": [
+            {
+              "code": "401",
+              "name": "Electronics & Computer Science (ECS)",
+              "type": "department"
+            },
+            {
+              "code": "402",
+              "name": "IoT & Sensor Innovation Hub",
+              "type": "lab"
+            },
+            {
+              "code": "403",
+              "name": "Central Conference Hall",
+              "type": "hall"
+            },
+            {
+              "code": "404",
+              "name": "Doctoral Research Cell",
+              "type": "research"
+            },
+            {
+              "code": "405",
+              "name": "Audio-Visual Projection Auditorium",
+              "type": "hall"
+            }
+          ]
+        }
+      ],
+      "center": [
+        -12.01,
+        0.48
+      ],
+      "centerGeo": [
+        26.76928564736842,
+        88.37607915789474
+      ],
+      "polygon": [
+        [
+          -40.38,
+          -32.09
+        ],
+        [
+          -7.34,
+          -51.21
+        ],
+        [
+          5.89,
+          -28.33
+        ],
+        [
+          3.58,
+          -22.43
+        ],
+        [
+          16.09,
+          -0.79
+        ],
+        [
+          22.3,
+          0.04
+        ],
+        [
+          36.38,
+          24.37
+        ],
+        [
+          3.34,
+          43.48
+        ],
+        [
+          -14.74,
+          12.22
+        ],
+        [
+          -23.67,
+          17.39
+        ],
+        [
+          -24.7,
+          15.62
+        ],
+        [
+          -23.51,
+          14.93
+        ],
+        [
+          -25.3,
+          11.83
+        ],
+        [
+          -23.73,
+          10.93
+        ],
+        [
+          -25.65,
+          7.63
+        ],
+        [
+          -23.65,
+          6.47
+        ],
+        [
+          -23.45,
+          6.84
+        ],
+        [
+          -19.26,
+          4.41
+        ],
+        [
+          -40.38,
+          -32.09
+        ]
+      ],
+      "entrance": [
+        -5,
+        -3.3
+      ],
+      "elevation": 144.17,
+      "navNodeId": "ent_main-academic-block"
+    },
+    {
+      "id": "management-block",
+      "osmId": 1484218543,
+      "name": "Management & Computer Applications Block",
+      "shortName": "Block B (MBA/MCA)",
+      "category": "academic",
+      "levels": 4,
+      "height": 14.5,
+      "color": "#fef3c7",
+      "accentColor": "#f59e0b",
+      "description": "Houses Department of Business Administration (MBA, BBA), Department of Computer Applications (MCA, BCA), Management Development Centre and Executive Classrooms.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "M-G01",
+              "name": "Department of Business Administration",
+              "type": "department"
+            },
+            {
+              "code": "M-G02",
+              "name": "Executive Board Room",
+              "type": "office"
+            },
+            {
+              "code": "M-G03",
+              "name": "MBA Lecture Hall 1",
+              "type": "classroom"
+            },
+            {
+              "code": "M-G04",
+              "name": "Training & Placement Cell (T&P)",
+              "type": "office"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "M-101",
+              "name": "Department of Computer Applications (MCA/BCA)",
+              "type": "department"
+            },
+            {
+              "code": "M-102",
+              "name": "Database & Web Development Lab",
+              "type": "lab"
+            },
+            {
+              "code": "M-103",
+              "name": "MCA Programming Lab",
+              "type": "lab"
+            },
+            {
+              "code": "M-104",
+              "name": "Classroom M104",
+              "type": "classroom"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "M-201",
+              "name": "Finance & Analytics Simulation Lab",
+              "type": "lab"
+            },
+            {
+              "code": "M-202",
+              "name": "BBA Lecture Theatre",
+              "type": "classroom"
+            },
+            {
+              "code": "M-203",
+              "name": "Faculty Enclave (Management)",
+              "type": "faculty"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Third Floor",
+          "rooms": [
+            {
+              "code": "M-301",
+              "name": "Management Seminar Hall",
+              "type": "hall"
+            },
+            {
+              "code": "M-302",
+              "name": "Entrepreneurship & Incubation Cell",
+              "type": "office"
+            },
+            {
+              "code": "M-303",
+              "name": "Group Discussion & Mock Interview Rooms",
+              "type": "facility"
+            }
+          ]
+        }
+      ],
+      "center": [
+        -107.1,
+        -84.44
+      ],
+      "centerGeo": [
+        26.770048533333334,
+        88.37512244999999
+      ],
+      "polygon": [
+        [
+          -99.73,
+          -86.19
+        ],
+        [
+          -97.81,
+          -86.78
+        ],
+        [
+          -96.79,
+          -83.46
+        ],
+        [
+          -95.82,
+          -83.76
+        ],
+        [
+          -94.67,
+          -79.99
+        ],
+        [
+          -102.38,
+          -77.62
+        ],
+        [
+          -103.96,
+          -82.79
+        ],
+        [
+          -113.82,
+          -79.75
+        ],
+        [
+          -112.9,
+          -76.74
+        ],
+        [
+          -114.41,
+          -76.28
+        ],
+        [
+          -113.75,
+          -74.13
+        ],
+        [
+          -116.68,
+          -73.23
+        ],
+        [
+          -120.41,
+          -85.36
+        ],
+        [
+          -117.88,
+          -86.13
+        ],
+        [
+          -118.48,
+          -88.08
+        ],
+        [
+          -115.12,
+          -89.11
+        ],
+        [
+          -115.72,
+          -91.06
+        ],
+        [
+          -107.63,
+          -93.54
+        ],
+        [
+          -106.44,
+          -89.66
+        ],
+        [
+          -103.19,
+          -90.7
+        ],
+        [
+          -101.93,
+          -89.81
+        ],
+        [
+          -100.9,
+          -88.69
+        ],
+        [
+          -100.19,
+          -87.5
+        ],
+        [
+          -99.73,
+          -86.19
+        ]
+      ],
+      "entrance": [
+        -110.7,
+        -77.3
+      ],
+      "elevation": 144.24,
+      "navNodeId": "ent_management-block",
+      "transform": {
+        "position": [
+          -92.13,
+          0.07,
+          -57.29
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "workshop-civil-mech",
+      "osmId": 1484218541,
+      "name": "Engineering Workshops & Civil/Mechanical Complex",
+      "shortName": "Workshop Block",
+      "category": "academic",
+      "levels": 2,
+      "height": 9,
+      "color": "#cbd5e1",
+      "accentColor": "#64748b",
+      "description": "Houses heavy engineering equipment, Machine Shop, Foundry & Welding Shop, Strength of Materials Lab, Surveying Lab, and Civil Concrete Technology Lab.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "WS-01",
+              "name": "Central Machine Shop & Lathes",
+              "type": "workshop"
+            },
+            {
+              "code": "WS-02",
+              "name": "Welding, Fitting & Carpentry Shop",
+              "type": "workshop"
+            },
+            {
+              "code": "WS-03",
+              "name": "Strength of Materials (SOM) Lab",
+              "type": "lab"
+            },
+            {
+              "code": "WS-04",
+              "name": "Fluid Mechanics & Hydraulic Machinery Lab",
+              "type": "lab"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "WS-101",
+              "name": "Civil Engineering Department",
+              "type": "department"
+            },
+            {
+              "code": "WS-102",
+              "name": "CAD / CAM Design Lab",
+              "type": "lab"
+            },
+            {
+              "code": "WS-103",
+              "name": "Geotechnical & Soil Mechanics Lab",
+              "type": "lab"
+            },
+            {
+              "code": "WS-104",
+              "name": "Surveying Instruments Hub",
+              "type": "lab"
+            }
+          ]
+        }
+      ],
+      "center": [
+        -141.49,
+        -40.64
+      ],
+      "centerGeo": [
+        26.769655066666665,
+        88.37477636666667
+      ],
+      "polygon": [
+        [
+          -162.68,
+          -55.16
+        ],
+        [
+          -119.82,
+          -56.75
+        ],
+        [
+          -119.15,
+          -38.68
+        ],
+        [
+          -131.78,
+          -38.2
+        ],
+        [
+          -131.61,
+          -33.46
+        ],
+        [
+          -142.14,
+          -33.07
+        ],
+        [
+          -141.95,
+          -28
+        ],
+        [
+          -161.64,
+          -27.26
+        ],
+        [
+          -162.68,
+          -55.16
+        ]
+      ],
+      "entrance": [
+        -139,
+        -33
+      ],
+      "elevation": 144.04,
+      "navNodeId": "ent_workshop-civil-mech",
+      "transform": {
+        "position": [
+          -142.68,
+          0.2,
+          -43.35
+        ],
+        "rotation": [
+          0,
+          0.075,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "first-year-block",
+      "osmId": 1484218551,
+      "name": "First Year Block (Basic Science & Humanities)",
+      "shortName": "First Year Block",
+      "category": "academic",
+      "levels": 3,
+      "height": 11.5,
+      "color": "#fed7aa",
+      "accentColor": "#ea580c",
+      "description": "Dedicated academic block for first-year engineering students, housing Engineering Physics, Chemistry, Mathematics, Professional Communication Labs, and Orientation Classrooms.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "FY-01",
+              "name": "First-Year Dean & Coordinator Office",
+              "type": "office"
+            },
+            {
+              "code": "FY-02",
+              "name": "Engineering Physics Laboratory",
+              "type": "lab"
+            },
+            {
+              "code": "FY-03",
+              "name": "Dark Room (Optics & Laser Studies)",
+              "type": "lab"
+            },
+            {
+              "code": "FY-04",
+              "name": "Lecture Hall FY-1",
+              "type": "classroom"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "FY-101",
+              "name": "Engineering Chemistry Laboratory",
+              "type": "lab"
+            },
+            {
+              "code": "FY-102",
+              "name": "Interactive English Language & Audio-Visual Lab",
+              "type": "lab"
+            },
+            {
+              "code": "FY-103",
+              "name": "Lecture Hall FY-2",
+              "type": "classroom"
+            },
+            {
+              "code": "FY-104",
+              "name": "Faculty Enclave (Basic Sciences)",
+              "type": "faculty"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "FY-201",
+              "name": "Mathematics & Computational Modeling Hub",
+              "type": "lab"
+            },
+            {
+              "code": "FY-202",
+              "name": "Drawing Hall (Engineering Graphics)",
+              "type": "hall"
+            },
+            {
+              "code": "FY-203",
+              "name": "Classroom FY-3",
+              "type": "classroom"
+            }
+          ]
+        }
+      ],
+      "center": [
+        113.55,
+        -116.81
+      ],
+      "centerGeo": [
+        26.77033927777778,
+        88.37734243333334
+      ],
+      "polygon": [
+        [
+          100.71,
+          -119.53
+        ],
+        [
+          113.47,
+          -129.01
+        ],
+        [
+          117.51,
+          -123.58
+        ],
+        [
+          110.58,
+          -118.43
+        ],
+        [
+          115.28,
+          -112.1
+        ],
+        [
+          122.21,
+          -117.24
+        ],
+        [
+          127.1,
+          -110.65
+        ],
+        [
+          114.34,
+          -101.17
+        ],
+        [
+          100.71,
+          -119.53
+        ]
+      ],
+      "entrance": [
+        119.5,
+        -111.4
+      ],
+      "elevation": 144.78,
+      "navNodeId": "ent_first-year-block",
+      "transform": {
+        "position": [
+          111.47,
+          1,
+          -109.44
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "admin-library-block",
+      "osmId": 1484218538,
+      "name": "Central Library & Administrative Block",
+      "shortName": "Admin & Library",
+      "category": "administrative",
+      "levels": 3,
+      "height": 12,
+      "color": "#f1f5f9",
+      "accentColor": "#0ea5e9",
+      "description": "Main administrative nerve center housing Director & Principal Offices, Registrar, Student Affairs, Accounts Section, and the multi-story Central Digital Library with over 50,000 volumes.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "ADM-01",
+              "name": "Principal & Director Office",
+              "type": "office"
+            },
+            {
+              "code": "ADM-02",
+              "name": "Registrar & Academic Council",
+              "type": "office"
+            },
+            {
+              "code": "ADM-03",
+              "name": "Central Reception & Visitors Desk",
+              "type": "office"
+            },
+            {
+              "code": "ADM-04",
+              "name": "Accounts, Finance & Fee Counter",
+              "type": "office"
+            },
+            {
+              "code": "ADM-05",
+              "name": "Examination Section",
+              "type": "office"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "LIB-01",
+              "name": "Central Library Issue & Return Counter",
+              "type": "library"
+            },
+            {
+              "code": "LIB-02",
+              "name": "General Engineering Book Stacks",
+              "type": "library"
+            },
+            {
+              "code": "LIB-03",
+              "name": "Faculty Reading Room",
+              "type": "library"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "LIB-201",
+              "name": "Digital E-Library & IEEE/Springer Terminal Room",
+              "type": "library"
+            },
+            {
+              "code": "LIB-202",
+              "name": "Quiet Study & Reference Section",
+              "type": "library"
+            },
+            {
+              "code": "LIB-203",
+              "name": "Periodicals, Journals & Archives",
+              "type": "library"
+            }
+          ]
+        }
+      ],
+      "center": [
+        94.91,
+        24.09
+      ],
+      "centerGeo": [
+        26.769073600000002,
+        88.37715490000001
+      ],
+      "polygon": [
+        [
+          100.37,
+          30.76
+        ],
+        [
+          82.81,
+          21.42
+        ],
+        [
+          86.71,
+          14.09
+        ],
+        [
+          104.27,
+          23.42
+        ],
+        [
+          100.37,
+          30.76
+        ]
+      ],
+      "entrance": [
+        87.7,
+        27.5
+      ],
+      "elevation": 144.32,
+      "navNodeId": "ent_admin-library-block"
+    },
+    {
+      "id": "admin-annex",
+      "osmId": 1484218539,
+      "name": "Administrative Annex & Student Services",
+      "shortName": "Admin Annex",
+      "category": "administrative",
+      "levels": 2,
+      "height": 8.5,
+      "color": "#f8fafc",
+      "accentColor": "#0284c7",
+      "description": "Student Affairs, Scholarship Cell, Anti-Ragging Committee, Internal Quality Assurance Cell (IQAC), and Alumni Association Office.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "AA-01",
+              "name": "Student Affairs & Welfare Office",
+              "type": "office"
+            },
+            {
+              "code": "AA-02",
+              "name": "Scholarship & Government Aid Desk",
+              "type": "office"
+            },
+            {
+              "code": "AA-03",
+              "name": "Identity Card & Document Verification",
+              "type": "office"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "AA-101",
+              "name": "Internal Quality Assurance Cell (IQAC)",
+              "type": "office"
+            },
+            {
+              "code": "AA-102",
+              "name": "SIT Alumni Association Lounge",
+              "type": "office"
+            },
+            {
+              "code": "AA-103",
+              "name": "Counseling & Career Guidance Cell",
+              "type": "office"
+            }
+          ]
+        }
+      ],
+      "center": [
+        79.39,
+        45.9
+      ],
+      "centerGeo": [
+        26.768877707692305,
+        88.37699874615386
+      ],
+      "polygon": [
+        [
+          84.76,
+          59.32
+        ],
+        [
+          82.9,
+          58.33
+        ],
+        [
+          81.59,
+          60.8
+        ],
+        [
+          73.44,
+          56.48
+        ],
+        [
+          74.76,
+          54
+        ],
+        [
+          68.95,
+          50.92
+        ],
+        [
+          74.55,
+          40.36
+        ],
+        [
+          70.47,
+          38.19
+        ],
+        [
+          74.29,
+          30.99
+        ],
+        [
+          78.38,
+          33.16
+        ],
+        [
+          83.69,
+          23.18
+        ],
+        [
+          99.5,
+          31.58
+        ],
+        [
+          84.76,
+          59.32
+        ]
+      ],
+      "entrance": [
+        73,
+        41.1
+      ],
+      "elevation": 144.22,
+      "navNodeId": "ent_admin-annex"
+    },
+    {
+      "id": "central-canteen",
+      "osmId": 1484218546,
+      "name": "Central Canteen & Cafeteria (Tutul's Food)",
+      "shortName": "Central Canteen",
+      "category": "canteen",
+      "levels": 1,
+      "height": 5.5,
+      "color": "#fed7aa",
+      "accentColor": "#f97316",
+      "description": "Vibrant campus social hub offering healthy North & South Indian meals, snacks, tea, coffee, fresh juice, and student gathering spaces.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "CAN-01",
+              "name": "Main Dining Hall (150+ seating)",
+              "type": "canteen"
+            },
+            {
+              "code": "CAN-02",
+              "name": "Hot Kitchen & Food Prep Station",
+              "type": "canteen"
+            },
+            {
+              "code": "CAN-03",
+              "name": "Snacks & Beverage Counter",
+              "type": "canteen"
+            },
+            {
+              "code": "CAN-04",
+              "name": "Faculty & Staff Dining Enclave",
+              "type": "canteen"
+            }
+          ]
+        }
+      ],
+      "center": [
+        -50.07,
+        -97.19
+      ],
+      "centerGeo": [
+        26.770163059999998,
+        88.37569626000001
+      ],
+      "polygon": [
+        [
+          -54.6,
+          -93.5
+        ],
+        [
+          -54.73,
+          -102.56
+        ],
+        [
+          -43.26,
+          -102.73
+        ],
+        [
+          -43.12,
+          -93.66
+        ],
+        [
+          -54.6,
+          -93.5
+        ]
+      ],
+      "entrance": [
+        -43,
+        -93.5
+      ],
+      "elevation": 144.39,
+      "navNodeId": "ent_central-canteen"
+    },
+    {
+      "id": "canteen-pavilion-a",
+      "osmId": 1484218544,
+      "name": "Cafeteria Outdoor Pavilion A",
+      "shortName": "Cafeteria Pavilion A",
+      "category": "canteen",
+      "levels": 1,
+      "height": 4.5,
+      "color": "#ffedd5",
+      "accentColor": "#ea580c",
+      "description": "Open-air shaded pavilion adjoining the central cafeteria with seating under garden canopies.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "PAV-A",
+              "name": "Garden Dining Area",
+              "type": "canteen"
+            }
+          ]
+        }
+      ],
+      "center": [
+        -64.87,
+        -96.78
+      ],
+      "centerGeo": [
+        26.770159411111113,
+        88.37554731111112
+      ],
+      "polygon": [
+        [
+          -69.37,
+          -94.01
+        ],
+        [
+          -69.42,
+          -97.08
+        ],
+        [
+          -66.94,
+          -97.13
+        ],
+        [
+          -66.99,
+          -100.03
+        ],
+        [
+          -63.02,
+          -100.1
+        ],
+        [
+          -62.97,
+          -97.19
+        ],
+        [
+          -57.89,
+          -97.28
+        ],
+        [
+          -57.84,
+          -94.21
+        ],
+        [
+          -69.37,
+          -94.01
+        ]
+      ],
+      "entrance": [
+        -68.2,
+        -89.5
+      ],
+      "elevation": 144.36,
+      "navNodeId": "ent_canteen-pavilion-a"
+    },
+    {
+      "id": "canteen-pavilion-b",
+      "osmId": 1484218545,
+      "name": "Cafeteria Outdoor Pavilion B",
+      "shortName": "Cafeteria Pavilion B",
+      "category": "canteen",
+      "levels": 1,
+      "height": 4.5,
+      "color": "#ffedd5",
+      "accentColor": "#ea580c",
+      "description": "Open-air beverage stall and seating pavilion.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "PAV-B",
+              "name": "Juice & Beverage Kiosk",
+              "type": "canteen"
+            }
+          ]
+        }
+      ],
+      "center": [
+        -4.34,
+        -84.91
+      ],
+      "centerGeo": [
+        26.770052779999997,
+        88.37615634
+      ],
+      "polygon": [
+        [
+          -5.92,
+          -80.05
+        ],
+        [
+          -10.16,
+          -87.64
+        ],
+        [
+          -1.96,
+          -92.21
+        ],
+        [
+          2.27,
+          -84.61
+        ],
+        [
+          -5.92,
+          -80.05
+        ]
+      ],
+      "entrance": [
+        1.3,
+        -79.2
+      ],
+      "elevation": 144.45,
+      "navNodeId": "ent_canteen-pavilion-b",
+      "transform": {
+        "position": [
+          -6.45,
+          0.07,
+          -84.91
+        ],
+        "rotation": [
+          0,
+          0.307,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "canteen-pavilion-c",
+      "osmId": 1484218547,
+      "name": "Indoor Sports & Gym Building",
+      "shortName": "Indoor Sports & Gym",
+      "category": "sports",
+      "levels": 2,
+      "height": 8,
+      "color": "#ffedd5",
+      "accentColor": "#ea580c",
+      "description": "Two-story Indoor Sports Complex and Gymnasium facility featuring indoor courts, fitness center, and student recreation halls.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "PAV-C",
+              "name": "Coffee & Snack Counter",
+              "type": "canteen"
+            }
+          ]
+        }
+      ],
+      "center": [
+        -28.83,
+        -101.35
+      ],
+      "centerGeo": [
+        26.77020048,
+        88.37590996
+      ],
+      "polygon": [
+        [
+          -31.59,
+          -109.07
+        ],
+        [
+          -22.92,
+          -108.24
+        ],
+        [
+          -24.69,
+          -89.78
+        ],
+        [
+          -33.35,
+          -90.61
+        ],
+        [
+          -31.59,
+          -109.07
+        ]
+      ],
+      "entrance": [
+        -34,
+        -95.2
+      ],
+      "elevation": 144.45,
+      "navNodeId": "ent_canteen-pavilion-c"
+    },
+    {
+      "id": "boys-hostel-a",
+      "osmId": 1484218476,
+      "name": "Swami Vivekananda Boys' Hostel (Block A)",
+      "shortName": "Boys' Hostel Block A",
+      "category": "hostel",
+      "levels": 4,
+      "height": 13.5,
+      "color": "#bae6fd",
+      "accentColor": "#0284c7",
+      "description": "On-campus residential accommodation for male engineering and management students, with Wi-Fi, dining hall, gym room and 24/7 security.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "BH-W01",
+              "name": "Warden Office & Reception",
+              "type": "office"
+            },
+            {
+              "code": "BH-DH",
+              "name": "Hostel Mess & Dining Hall",
+              "type": "facility"
+            },
+            {
+              "code": "BH-CR",
+              "name": "Common Room & TV Lounge",
+              "type": "facility"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "BH-101-115",
+              "name": "Student Rooms 101-115",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "BH-201-215",
+              "name": "Student Rooms 201-215",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Third Floor",
+          "rooms": [
+            {
+              "code": "BH-301-315",
+              "name": "Student Rooms 301-315",
+              "type": "hostel"
+            }
+          ]
+        }
+      ],
+      "center": [
+        118.16,
+        -28.36
+      ],
+      "centerGeo": [
+        26.769544755555554,
+        88.37738888888889
+      ],
+      "polygon": [
+        [
+          110.44,
+          -24.82
+        ],
+        [
+          111.6,
+          -40.79
+        ],
+        [
+          128.89,
+          -39.52
+        ],
+        [
+          126.66,
+          -23.64
+        ],
+        [
+          121.9,
+          -23.99
+        ],
+        [
+          122.07,
+          -26.37
+        ],
+        [
+          115.82,
+          -26.83
+        ],
+        [
+          115.64,
+          -24.45
+        ],
+        [
+          110.44,
+          -24.82
+        ]
+      ],
+      "entrance": [
+        123.9,
+        -33.9
+      ],
+      "elevation": 144.52,
+      "navNodeId": "ent_boys-hostel-a",
+      "transform": {
+        "position": [
+          113.42,
+          -0.12,
+          -24.33
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "boys-hostel-b",
+      "osmId": 1484218477,
+      "name": "Swami Vivekananda Boys' Hostel (Block B)",
+      "shortName": "Boys' Hostel Block B",
+      "category": "hostel",
+      "levels": 4,
+      "height": 13.5,
+      "color": "#bae6fd",
+      "accentColor": "#0284c7",
+      "description": "Senior student residential wing with study halls, indoor games room, and solar water heating.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "BH-GYM",
+              "name": "Hostel Fitness & Gymnasium",
+              "type": "facility"
+            },
+            {
+              "code": "BH-B-G01-G10",
+              "name": "Student Rooms G01-G10",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "BH-B-101-115",
+              "name": "Student Rooms 101-115",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "BH-B-201-215",
+              "name": "Student Rooms 201-215",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Third Floor",
+          "rooms": [
+            {
+              "code": "BH-B-301-315",
+              "name": "Student Rooms 301-315",
+              "type": "hostel"
+            }
+          ]
+        }
+      ],
+      "center": [
+        117.43,
+        -12.55
+      ],
+      "centerGeo": [
+        26.76940272222222,
+        88.37738151111111
+      ],
+      "polygon": [
+        [
+          106.65,
+          -7.39
+        ],
+        [
+          108.4,
+          -22.06
+        ],
+        [
+          121.49,
+          -20.51
+        ],
+        [
+          121.01,
+          -16.4
+        ],
+        [
+          124.39,
+          -16
+        ],
+        [
+          123.52,
+          -8.77
+        ],
+        [
+          122.58,
+          -8.88
+        ],
+        [
+          122.17,
+          -5.53
+        ],
+        [
+          106.65,
+          -7.39
+        ]
+      ],
+      "entrance": [
+        122.2,
+        -6.1
+      ],
+      "elevation": 144.47,
+      "navNodeId": "ent_boys-hostel-b",
+      "transform": {
+        "position": [
+          112.57,
+          0.12,
+          -9.81
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "girls-hostel-a",
+      "osmId": 1484218534,
+      "name": "Sister Nivedita Girls' Hostel (Block A)",
+      "shortName": "Girls' Hostel Block A",
+      "category": "hostel",
+      "levels": 4,
+      "height": 13.5,
+      "color": "#fbcfe8",
+      "accentColor": "#db2777",
+      "description": "Secure, monitored residential hostel for female students with attached mess, study lounges, recreational room and round-the-clock matron supervision.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "GH-W01",
+              "name": "Lady Warden Office & Security Desk",
+              "type": "office"
+            },
+            {
+              "code": "GH-DH",
+              "name": "Girls' Hostel Dining Hall",
+              "type": "facility"
+            },
+            {
+              "code": "GH-LR",
+              "name": "Visitors & Parents Lounge",
+              "type": "facility"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "GH-101-115",
+              "name": "Student Rooms 101-115",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "GH-201-215",
+              "name": "Student Rooms 201-215",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Third Floor",
+          "rooms": [
+            {
+              "code": "GH-301-315",
+              "name": "Student Rooms 301-315",
+              "type": "hostel"
+            }
+          ]
+        }
+      ],
+      "center": [
+        118.63,
+        -51.9
+      ],
+      "centerGeo": [
+        26.769756255555556,
+        88.37739358888888
+      ],
+      "polygon": [
+        [
+          117.24,
+          -61.95
+        ],
+        [
+          128.71,
+          -61.03
+        ],
+        [
+          127.04,
+          -40.36
+        ],
+        [
+          115.57,
+          -41.29
+        ],
+        [
+          115.83,
+          -44.47
+        ],
+        [
+          114.21,
+          -44.61
+        ],
+        [
+          115.1,
+          -55.8
+        ],
+        [
+          116.73,
+          -55.67
+        ],
+        [
+          117.24,
+          -61.95
+        ]
+      ],
+      "entrance": [
+        126.6,
+        -50.9
+      ],
+      "elevation": 144.59,
+      "navNodeId": "ent_girls-hostel-a",
+      "transform": {
+        "position": [
+          118.63,
+          -0.2,
+          -51.9
+        ]
+      }
+    },
+    {
+      "id": "girls-hostel-b",
+      "osmId": 1484218535,
+      "name": "Sister Nivedita Girls' Hostel (Block B)",
+      "shortName": "Girls' Hostel Block B",
+      "category": "hostel",
+      "levels": 4,
+      "height": 13.5,
+      "color": "#fbcfe8",
+      "accentColor": "#db2777",
+      "description": "Second wing of Sister Nivedita residential accommodation for female students.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "GH-B-G01",
+              "name": "Study Library & Reading Hall",
+              "type": "facility"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "name": "First Floor",
+          "rooms": [
+            {
+              "code": "GH-B-101-115",
+              "name": "Student Rooms 101-115",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Second Floor",
+          "rooms": [
+            {
+              "code": "GH-B-201-215",
+              "name": "Student Rooms 201-215",
+              "type": "hostel"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Third Floor",
+          "rooms": [
+            {
+              "code": "GH-B-301-315",
+              "name": "Student Rooms 301-315",
+              "type": "hostel"
+            }
+          ]
+        }
+      ],
+      "center": [
+        127.34,
+        -71.67
+      ],
+      "centerGeo": [
+        26.769933785714283,
+        88.37748121428571
+      ],
+      "polygon": [
+        [
+          120.03,
+          -77.75
+        ],
+        [
+          132.37,
+          -74.88
+        ],
+        [
+          131.67,
+          -71.9
+        ],
+        [
+          135.96,
+          -70.91
+        ],
+        [
+          133.97,
+          -62.31
+        ],
+        [
+          117.34,
+          -66.17
+        ],
+        [
+          120.03,
+          -77.75
+        ]
+      ],
+      "entrance": [
+        134.1,
+        -67.4
+      ],
+      "elevation": 144.67,
+      "navNodeId": "ent_girls-hostel-b",
+      "transform": {
+        "position": [
+          127.34,
+          -0.2,
+          -71.67
+        ]
+      }
+    },
+    {
+      "id": "electrical-substation",
+      "osmId": 1484218536,
+      "name": "Campus Electrical Substation & Power House",
+      "shortName": "Power Substation",
+      "category": "utility",
+      "levels": 1,
+      "height": 5,
+      "color": "#94a3b8",
+      "accentColor": "#475569",
+      "description": "Dedicated transformer station, heavy backup diesel generators (DG Sets), and electrical distribution panel for 24x7 uninterrupted campus power.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "SUB-01",
+              "name": "High Tension Transformer Room",
+              "type": "facility"
+            },
+            {
+              "code": "SUB-02",
+              "name": "Backup Generator Control Room",
+              "type": "facility"
+            }
+          ]
+        }
+      ],
+      "center": [
+        49.46,
+        107.76
+      ],
+      "centerGeo": [
+        26.768321985714287,
+        88.37669761428572
+      ],
+      "polygon": [
+        [
+          37.66,
+          118.12
+        ],
+        [
+          47.39,
+          94.27
+        ],
+        [
+          57.86,
+          98.54
+        ],
+        [
+          56.98,
+          100.71
+        ],
+        [
+          58.75,
+          101.43
+        ],
+        [
+          49.9,
+          123.12
+        ],
+        [
+          37.66,
+          118.12
+        ]
+      ],
+      "entrance": [
+        46.7,
+        100.2
+      ],
+      "elevation": 143.98,
+      "navNodeId": "ent_electrical-substation"
+    },
+    {
+      "id": "campus-maintenance",
+      "osmId": 1484218537,
+      "name": "Campus Estate & Facility Maintenance Office",
+      "shortName": "Facility Maintenance",
+      "category": "utility",
+      "levels": 1,
+      "height": 4.5,
+      "color": "#94a3b8",
+      "accentColor": "#475569",
+      "description": "Civil, plumbing, electrical maintenance workshops and campus security dispatch.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "MAINT-01",
+              "name": "Estate Manager Office",
+              "type": "office"
+            },
+            {
+              "code": "MAINT-02",
+              "name": "Tools & Equipment Depot",
+              "type": "facility"
+            }
+          ]
+        }
+      ],
+      "center": [
+        61.98,
+        81.99
+      ],
+      "centerGeo": [
+        26.768553433333334,
+        88.37682358333332
+      ],
+      "polygon": [
+        [
+          48.39,
+          92.53
+        ],
+        [
+          67.91,
+          56.22
+        ],
+        [
+          80.65,
+          63.06
+        ],
+        [
+          66.72,
+          88.97
+        ],
+        [
+          59.79,
+          98.66
+        ],
+        [
+          48.39,
+          92.53
+        ]
+      ],
+      "entrance": [
+        59.5,
+        74.4
+      ],
+      "elevation": 144.08,
+      "navNodeId": "ent_campus-maintenance"
+    },
+    {
+      "id": "main-gate-security",
+      "osmId": 1484218532,
+      "name": "Main Entrance Gate & Security Checkpoint",
+      "shortName": "Main Gate",
+      "category": "entrance",
+      "levels": 1,
+      "height": 4.5,
+      "color": "#e2e8f0",
+      "accentColor": "#10b981",
+      "description": "Primary campus entrance on Hill Cart Road with vehicle boom barriers, 24/7 security personnel, visitor pass counter and CCTV surveillance hub.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "SEC-01",
+              "name": "Security Guard Post & Visitor Register",
+              "type": "office"
+            },
+            {
+              "code": "SEC-02",
+              "name": "Vehicle Entry Boom Gate Control",
+              "type": "facility"
+            }
+          ]
+        }
+      ],
+      "center": [
+        146.67,
+        -99.85
+      ],
+      "centerGeo": [
+        26.77018698,
+        88.37767576
+      ],
+      "polygon": [
+        [
+          149.62,
+          -103.37
+        ],
+        [
+          151.6,
+          -98.06
+        ],
+        [
+          142.26,
+          -94.58
+        ],
+        [
+          140.28,
+          -99.88
+        ],
+        [
+          149.62,
+          -103.37
+        ]
+      ],
+      "entrance": [
+        143.5,
+        -107.2
+      ],
+      "elevation": 144.79,
+      "navNodeId": "ent_main-gate-security",
+      "transform": {
+        "position": [
+          146.67,
+          -0.3,
+          -99.85
+        ]
+      }
+    },
+    {
+      "id": "visitors-pavilion",
+      "osmId": 1484218533,
+      "name": "Visitors Reception & Waiting Lounge",
+      "shortName": "Visitors Pavilion",
+      "category": "entrance",
+      "levels": 1,
+      "height": 4,
+      "color": "#e2e8f0",
+      "accentColor": "#10b981",
+      "description": "Comfortable waiting lounge for visiting parents, guests, and campus delivery personnel.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "VIS-01",
+              "name": "Guest Waiting Area",
+              "type": "facility"
+            }
+          ]
+        }
+      ],
+      "center": [
+        153.17,
+        -101.09
+      ],
+      "centerGeo": [
+        26.770198099999998,
+        88.37774116
+      ],
+      "polygon": [
+        [
+          151.77,
+          -98.13
+        ],
+        [
+          149.77,
+          -103.47
+        ],
+        [
+          155.29,
+          -105.53
+        ],
+        [
+          157.28,
+          -100.19
+        ],
+        [
+          151.77,
+          -98.13
+        ]
+      ],
+      "entrance": [
+        150.3,
+        -108.5
+      ],
+      "elevation": 144.81,
+      "navNodeId": "ent_visitors-pavilion",
+      "transform": {
+        "position": [
+          153.17,
+          -0.3,
+          -101.09
+        ]
+      }
+    },
+    {
+      "id": "academic-porch",
+      "osmId": 1469221647,
+      "name": "Academic Block Grand Portico",
+      "shortName": "Portico Entrance",
+      "category": "academic",
+      "levels": 1,
+      "height": 5,
+      "color": "#f1f5f9",
+      "accentColor": "#3b82f6",
+      "description": "Architectural covered drop-off porch and ceremonial entrance arch for the Main Academic Block.",
+      "floors": [
+        {
+          "level": 0,
+          "name": "Ground Floor",
+          "rooms": [
+            {
+              "code": "POR-01",
+              "name": "Ceremonial Drop-off & Entrance",
+              "type": "facility"
+            }
+          ]
+        }
+      ],
+      "center": [
+        11.51,
+        -15.51
+      ],
+      "centerGeo": [
+        26.76942934,
+        88.37631578
+      ],
+      "polygon": [
+        [
+          3.58,
+          -22.43
+        ],
+        [
+          15.06,
+          -19.36
+        ],
+        [
+          19.23,
+          -12.55
+        ],
+        [
+          16.09,
+          -0.79
+        ],
+        [
+          3.58,
+          -22.43
+        ]
+      ],
+      "entrance": [
+        10.7,
+        -23.5
+      ],
+      "elevation": 144.27,
+      "navNodeId": "ent_academic-porch"
+    },
+    {
+      "id": "basketball-court",
+      "osmId": 1484218550,
+      "name": "Campus Basketball Court",
+      "shortName": "Basketball Court",
+      "category": "sports",
+      "levels": 1,
+      "height": 4,
+      "color": "#64748b",
+      "accentColor": "#ea580c",
+      "description": "Regulation FIBA outdoor basketball court with grey acrylic surface, orange goal-post keys & center circle, white markings, dual hoops, night floodlights, and adjacent sitting bench area.",
+      "floors": [],
+      "center": [
+        -44,
+        -64
+      ],
+      "centerGeo": [
+        26.76982714,
+        88.37574496
+      ],
+      "polygon": [
+        [
+          -61.58,
+          -70.12
+        ],
+        [
+          -30.21,
+          -76.5
+        ],
+        [
+          -26.43,
+          -57.88
+        ],
+        [
+          -57.79,
+          -51.5
+        ],
+        [
+          -61.58,
+          -70.12
+        ]
+      ],
+      "entrance": [
+        -42.11,
+        -54.69
+      ],
+      "navNodeId": "ent_amenity-1484218550",
+      "elevation": 0.08,
+      "visible": true,
+      "transform": {
+        "position": [
+          -44,
+          0.08,
+          -64
+        ],
+        "rotation": [
+          0,
+          0.179,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "central-garden",
+      "osmId": 1469221641,
+      "name": "Central Landscaped Garden & Lawn",
+      "shortName": "Central Garden",
+      "category": "sports",
+      "levels": 1,
+      "height": 3,
+      "color": "#22c55e",
+      "accentColor": "#15803d",
+      "description": "Manicured central campus lawn in front of the Main Academic Building featuring sculpted SIT topiary grass lettering, boxwood hedges, burgundy shrubs, and flowering borders.",
+      "floors": [],
+      "center": [
+        19.03,
+        -19.27
+      ],
+      "centerGeo": [
+        26.76946312727273,
+        88.3763915
+      ],
+      "polygon": [
+        [
+          17.23,
+          -28.83
+        ],
+        [
+          15.7,
+          -26.19
+        ],
+        [
+          15.03,
+          -23.22
+        ],
+        [
+          15.28,
+          -20.18
+        ],
+        [
+          16.43,
+          -17.37
+        ],
+        [
+          17.99,
+          -15.38
+        ],
+        [
+          20,
+          -13.85
+        ],
+        [
+          22.32,
+          -12.87
+        ],
+        [
+          24.82,
+          -12.5
+        ],
+        [
+          27.33,
+          -12.77
+        ],
+        [
+          17.23,
+          -28.83
+        ]
+      ],
+      "entrance": [
+        18.3,
+        -19.1
+      ],
+      "navNodeId": "ent_amenity-1469221641",
+      "elevation": 0.08,
+      "visible": true,
+      "transform": {
+        "position": [
+          19.24,
+          0.1,
+          -16.77
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1.71,
+          1.71,
+          1.71
+        ]
+      }
+    },
+    {
+      "id": "sitting-bench-area",
+      "osmId": 990002,
+      "name": "Basketball Sitting Bench Area",
+      "shortName": "Sitting Benches",
+      "category": "sports",
+      "levels": 1,
+      "height": 1.5,
+      "color": "#b45309",
+      "accentColor": "#15803d",
+      "description": "Roadside paved seating plaza with 5 campus park benches and shrub borders overlooking the basketball court.",
+      "floors": [],
+      "center": [
+        -50,
+        -83.5
+      ],
+      "centerGeo": [
+        26.7699,
+        88.3757
+      ],
+      "polygon": [
+        [
+          -60,
+          -85.5
+        ],
+        [
+          -40,
+          -85.5
+        ],
+        [
+          -40,
+          -81.5
+        ],
+        [
+          -60,
+          -81.5
+        ],
+        [
+          -60,
+          -85.5
+        ]
+      ],
+      "elevation": 0.08,
+      "visible": true,
+      "transform": {
+        "position": [
+          -50,
+          0.08,
+          -83.5
+        ],
+        "rotation": [
+          0,
+          0.075,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "volleyball-court",
+      "osmId": 990003,
+      "name": "Campus Volleyball Court",
+      "shortName": "Volleyball Court",
+      "category": "sports",
+      "levels": 1,
+      "height": 2.5,
+      "color": "#c2410c",
+      "accentColor": "#ffffff",
+      "description": "Simple outdoor campus volleyball court located between Boys Hostel Block B and Admin & Library.",
+      "floors": [],
+      "center": [
+        104.5,
+        4.5
+      ],
+      "centerGeo": [
+        26.7695,
+        88.3769
+      ],
+      "polygon": [
+        [
+          94.5,
+          -1
+        ],
+        [
+          114.5,
+          -1
+        ],
+        [
+          114.5,
+          10
+        ],
+        [
+          94.5,
+          10
+        ],
+        [
+          94.5,
+          -1
+        ]
+      ],
+      "elevation": 0.08,
+      "visible": true,
+      "transform": {
+        "position": [
+          90.08,
+          0.08,
+          2.64
+        ],
+        "rotation": [
+          0,
+          1.258,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    }
+  ],
+  "amenities": [
+    {
+      "id": "amenity-1469221619",
+      "osmId": 1469221619,
+      "name": "SIT Main Sports Ground (Cricket & Football)",
+      "category": "sports",
+      "color": "#15803d",
+      "center": [
+        58.62,
+        180.62
+      ],
+      "centerGeo": [
+        26.76766747857143,
+        88.37678984285715
+      ],
+      "polygon": [
+        [
+          11.07,
+          241.95
+        ],
+        [
+          82.78,
+          230.09
+        ],
+        [
+          82.14,
+          226.2
+        ],
+        [
+          86.35,
+          223.15
+        ],
+        [
+          90.06,
+          219.51
+        ],
+        [
+          93.18,
+          215.36
+        ],
+        [
+          95.67,
+          210.74
+        ],
+        [
+          97.43,
+          205.79
+        ],
+        [
+          98.43,
+          200.62
+        ],
+        [
+          98.64,
+          195.37
+        ],
+        [
+          100.03,
+          188.56
+        ],
+        [
+          100.44,
+          181.64
+        ],
+        [
+          100.06,
+          176.13
+        ],
+        [
+          99.08,
+          170.69
+        ],
+        [
+          97.49,
+          165.4
+        ],
+        [
+          95.3,
+          160.31
+        ],
+        [
+          91.1,
+          152.39
+        ],
+        [
+          88.71,
+          148.58
+        ],
+        [
+          86.11,
+          144.92
+        ],
+        [
+          80.45,
+          138.27
+        ],
+        [
+          77.7,
+          135.56
+        ],
+        [
+          74.64,
+          133.2
+        ],
+        [
+          71.31,
+          131.26
+        ],
+        [
+          67.58,
+          129.66
+        ],
+        [
+          63.67,
+          128.56
+        ],
+        [
+          49.62,
+          124.41
+        ],
+        [
+          36.46,
+          120.53
+        ],
+        [
+          31.09,
+          129.95
+        ],
+        [
+          26.33,
+          139.72
+        ],
+        [
+          22.2,
+          149.76
+        ],
+        [
+          18.73,
+          160.04
+        ],
+        [
+          16.19,
+          169.44
+        ],
+        [
+          14.18,
+          178.96
+        ],
+        [
+          12.73,
+          188.58
+        ],
+        [
+          12.21,
+          197.36
+        ],
+        [
+          12.46,
+          206.15
+        ],
+        [
+          13.47,
+          214.89
+        ],
+        [
+          14.25,
+          219.81
+        ],
+        [
+          14.49,
+          224.79
+        ],
+        [
+          14.2,
+          229.76
+        ],
+        [
+          13.06,
+          235.96
+        ],
+        [
+          11.07,
+          241.95
+        ]
+      ],
+      "entrance": [
+        54.1,
+        179.3
+      ],
+      "navNodeId": "ent_amenity-1469221619"
+    },
+    {
+      "id": "amenity-1484218550",
+      "osmId": 1484218550,
+      "name": "Campus Basketball Court",
+      "category": "sports",
+      "color": "#ea580c",
+      "center": [
+        -44,
+        -64
+      ],
+      "centerGeo": [
+        26.76982714,
+        88.37574495999999
+      ],
+      "polygon": [
+        [
+          -61.58,
+          -70.12
+        ],
+        [
+          -30.21,
+          -76.5
+        ],
+        [
+          -26.43,
+          -57.88
+        ],
+        [
+          -57.79,
+          -51.5
+        ],
+        [
+          -61.58,
+          -70.12
+        ]
+      ],
+      "entrance": [
+        -42.11,
+        -54.69
+      ],
+      "navNodeId": "ent_amenity-1484218550"
+    },
+    {
+      "id": "amenity-1469221641",
+      "osmId": 1469221641,
+      "name": "Central Landscaped Garden & Lawn",
+      "category": "recreation",
+      "color": "#4ade80",
+      "center": [
+        19.03,
+        -19.27
+      ],
+      "centerGeo": [
+        26.76946312727273,
+        88.3763915
+      ],
+      "polygon": [
+        [
+          17.23,
+          -28.83
+        ],
+        [
+          15.7,
+          -26.19
+        ],
+        [
+          15.03,
+          -23.22
+        ],
+        [
+          15.28,
+          -20.18
+        ],
+        [
+          16.43,
+          -17.37
+        ],
+        [
+          17.99,
+          -15.38
+        ],
+        [
+          20,
+          -13.85
+        ],
+        [
+          22.32,
+          -12.87
+        ],
+        [
+          24.82,
+          -12.5
+        ],
+        [
+          27.33,
+          -12.77
+        ],
+        [
+          17.23,
+          -28.83
+        ]
+      ],
+      "entrance": [
+        18.3,
+        -19.1
+      ],
+      "navNodeId": "ent_amenity-1469221641"
+    }
+  ],
+  "roads": [
+    {
+      "id": 348870927,
+      "type": "residential",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          309.42,
+          -51.91
+        ],
+        [
+          281.73,
+          -24.51
+        ],
+        [
+          216.95,
+          22.31
+        ],
+        [
+          202.14,
+          36.88
+        ],
+        [
+          199.69,
+          39.86
+        ],
+        [
+          197.83,
+          42.27
+        ],
+        [
+          196.67,
+          45.08
+        ],
+        [
+          195.85,
+          49.4
+        ],
+        [
+          193.33,
+          79.33
+        ],
+        [
+          196.28,
+          109.37
+        ],
+        [
+          205.69,
+          207.54
+        ],
+        [
+          185.14,
+          210.49
+        ],
+        [
+          155.16,
+          210.89
+        ],
+        [
+          150.44,
+          210.36
+        ],
+        [
+          145.86,
+          209.06
+        ],
+        [
+          141.56,
+          207.03
+        ],
+        [
+          137.2,
+          203.96
+        ],
+        [
+          133.47,
+          200.14
+        ],
+        [
+          130.5,
+          195.7
+        ],
+        [
+          127.49,
+          190.32
+        ],
+        [
+          124.95,
+          184.71
+        ],
+        [
+          122.89,
+          178.9
+        ],
+        [
+          121.5,
+          172.97
+        ],
+        [
+          120.77,
+          166.91
+        ],
+        [
+          124.37,
+          137.06
+        ],
+        [
+          111.04,
+          133.32
+        ],
+        [
+          78.65,
+          116.93
+        ]
+      ],
+      "nodeIds": [
+        3549242685,
+        3549242687,
+        3549242688,
+        13474454931,
+        13474454921,
+        3549242689,
+        13474454930,
+        3568419005,
+        3549242691,
+        13474454916,
+        3549242692,
+        13474454915,
+        13474454914,
+        13474454911,
+        13474454910,
+        13474454913,
+        13474454909,
+        13474454908,
+        13474454912,
+        13474454906,
+        13474454905,
+        13474454907,
+        13474454903,
+        13474454904,
+        13474454902,
+        13474454900,
+        13474454901
+      ]
+    },
+    {
+      "id": 351119178,
+      "type": "residential",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          182.36,
+          -116.82
+        ],
+        [
+          183.03,
+          -113.33
+        ],
+        [
+          183.14,
+          -109.79
+        ],
+        [
+          182.68,
+          -106.27
+        ],
+        [
+          181.67,
+          -102.9
+        ],
+        [
+          180.15,
+          -99.74
+        ],
+        [
+          163.71,
+          -80.28
+        ],
+        [
+          159.02,
+          -77.14
+        ],
+        [
+          153.65,
+          -75.92
+        ],
+        [
+          148.02,
+          -73.95
+        ],
+        [
+          144.22,
+          -71.41
+        ],
+        [
+          141.23,
+          -67.77
+        ],
+        [
+          139.21,
+          -64.23
+        ],
+        [
+          136.07,
+          -57.24
+        ],
+        [
+          133.82,
+          -49.9
+        ],
+        [
+          132.5,
+          -42.36
+        ],
+        [
+          124.9,
+          -2.57
+        ],
+        [
+          124.37,
+          4.43
+        ],
+        [
+          124.7,
+          10.88
+        ],
+        [
+          125.84,
+          17.22
+        ],
+        [
+          127.15,
+          22.12
+        ],
+        [
+          127.65,
+          27.16
+        ],
+        [
+          127.3,
+          32.22
+        ],
+        [
+          126.66,
+          35.32
+        ],
+        [
+          125.7,
+          38.35
+        ],
+        [
+          124.46,
+          40.3
+        ],
+        [
+          122.83,
+          41.92
+        ],
+        [
+          120.89,
+          43.15
+        ],
+        [
+          118.93,
+          44.72
+        ],
+        [
+          117.24,
+          47.34
+        ],
+        [
+          113.98,
+          59.92
+        ],
+        [
+          113.27,
+          64.25
+        ],
+        [
+          112.87,
+          68.61
+        ],
+        [
+          112.78,
+          74.24
+        ],
+        [
+          113.19,
+          79.85
+        ],
+        [
+          114.09,
+          85.4
+        ]
+      ],
+      "nodeIds": [
+        13474454948,
+        13474454945,
+        13474454946,
+        13474454949,
+        13474454947,
+        13474454950,
+        3568425098,
+        13474454951,
+        3568425106,
+        13474454952,
+        13474454953,
+        3568425107,
+        3568425108,
+        13474428474,
+        13474428473,
+        13474428475,
+        13474428472,
+        13474428471,
+        13474428469,
+        13474428470,
+        13474428466,
+        13474428465,
+        13474428468,
+        13474428464,
+        13474428467,
+        13474428463,
+        13474428462,
+        3568425111,
+        13474454929,
+        13474428461,
+        3568425112,
+        13474454928,
+        3568425113,
+        13474454927,
+        13474454926,
+        3568425114
+      ]
+    },
+    {
+      "id": 1134454990,
+      "type": "residential",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          193.33,
+          79.33
+        ],
+        [
+          144.06,
+          85.63
+        ],
+        [
+          130.63,
+          85.34
+        ]
+      ],
+      "nodeIds": [
+        3549242691,
+        10576227594,
+        13474454925
+      ]
+    },
+    {
+      "id": 1134454991,
+      "type": "residential",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          144.06,
+          85.63
+        ],
+        [
+          148.45,
+          113.52
+        ],
+        [
+          148.68,
+          125.51
+        ],
+        [
+          148.89,
+          137.19
+        ]
+      ],
+      "nodeIds": [
+        10576227594,
+        10576227595,
+        13474454919,
+        13474454920
+      ]
+    },
+    {
+      "id": 1364484277,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          206.18,
+          -103.32
+        ],
+        [
+          204.94,
+          -107
+        ],
+        [
+          216.17,
+          -110.77
+        ],
+        [
+          231.23,
+          -115.83
+        ],
+        [
+          245.45,
+          -126.25
+        ]
+      ],
+      "nodeIds": [
+        13474454955,
+        12635790803,
+        13474454959,
+        12635790817,
+        13474454960
+      ]
+    },
+    {
+      "id": 1469221627,
+      "type": "unclassified",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          237.19,
+          -138.83
+        ],
+        [
+          235.95,
+          -138.11
+        ],
+        [
+          211.89,
+          -125.53
+        ],
+        [
+          182.36,
+          -116.82
+        ],
+        [
+          149.69,
+          -110.07
+        ],
+        [
+          143.47,
+          -107.38
+        ],
+        [
+          137.56,
+          -104.07
+        ],
+        [
+          131.89,
+          -100.05
+        ],
+        [
+          126.67,
+          -95.47
+        ],
+        [
+          121.97,
+          -90.35
+        ],
+        [
+          116.63,
+          -84.74
+        ],
+        [
+          111.82,
+          -78.68
+        ],
+        [
+          107.57,
+          -72.21
+        ],
+        [
+          103.5,
+          -64.55
+        ],
+        [
+          100.21,
+          -56.53
+        ],
+        [
+          97.74,
+          -48.21
+        ],
+        [
+          96.11,
+          -39.7
+        ],
+        [
+          67.36,
+          36.87
+        ],
+        [
+          56.79,
+          66.01
+        ],
+        [
+          44.97,
+          95.45
+        ],
+        [
+          32.17,
+          124.48
+        ],
+        [
+          18.4,
+          153.05
+        ],
+        [
+          15.34,
+          159.95
+        ],
+        [
+          12.98,
+          167.14
+        ],
+        [
+          11.33,
+          174.5
+        ],
+        [
+          10.43,
+          182.01
+        ],
+        [
+          10.27,
+          189.57
+        ],
+        [
+          11.56,
+          221.72
+        ],
+        [
+          11.29,
+          226.43
+        ],
+        [
+          10.14,
+          231.02
+        ],
+        [
+          8.51,
+          234.65
+        ],
+        [
+          6.33,
+          237.96
+        ],
+        [
+          3.65,
+          240.88
+        ],
+        [
+          2.12,
+          242.1
+        ],
+        [
+          0.54,
+          243.36
+        ],
+        [
+          -6.67,
+          247.44
+        ],
+        [
+          -13.34,
+          252.35
+        ],
+        [
+          -19.39,
+          258.02
+        ],
+        [
+          -23.36,
+          262.58
+        ],
+        [
+          -26.91,
+          267.46
+        ],
+        [
+          -31.28,
+          272.97
+        ],
+        [
+          -35.25,
+          276.94
+        ],
+        [
+          -40.83,
+          280.55
+        ],
+        [
+          -46.78,
+          283.46
+        ],
+        [
+          -53.04,
+          285.68
+        ],
+        [
+          -135.73,
+          302.52
+        ],
+        [
+          -213.83,
+          318.43
+        ],
+        [
+          -384.84,
+          340.24
+        ],
+        [
+          -417.24,
+          342.9
+        ],
+        [
+          -452.45,
+          345.79
+        ],
+        [
+          -499.74,
+          349.67
+        ],
+        [
+          -543.77,
+          353.6
+        ],
+        [
+          -554.89,
+          350.66
+        ],
+        [
+          -594.74,
+          356.12
+        ],
+        [
+          -597.52,
+          357.54
+        ],
+        [
+          -599.89,
+          359.55
+        ],
+        [
+          -601.74,
+          362.06
+        ],
+        [
+          -602.93,
+          364.81
+        ],
+        [
+          -603.49,
+          367.76
+        ],
+        [
+          -597.27,
+          415.1
+        ]
+      ],
+      "nodeIds": [
+        692800797,
+        12637902475,
+        3568376798,
+        13474454948,
+        13474454832,
+        13474454829,
+        13474454833,
+        13474454830,
+        13474454831,
+        13474454839,
+        13474454834,
+        13474454835,
+        13474454840,
+        13474454836,
+        13474454837,
+        13474454838,
+        13474454841,
+        3568376809,
+        13474454844,
+        13474454842,
+        13474454843,
+        13474454848,
+        13474454845,
+        13474454846,
+        13474454849,
+        13474454847,
+        13474454850,
+        13474454851,
+        13474454852,
+        13474454856,
+        13474454853,
+        13474454854,
+        13474454855,
+        13474428415,
+        13474454861,
+        13474454857,
+        13474454858,
+        13474454862,
+        13474454859,
+        13474454860,
+        11133123228,
+        13474454865,
+        13474454863,
+        13474454864,
+        13474454866,
+        14345735125,
+        3568376826,
+        3568376827,
+        14345734730,
+        14345734731,
+        14345735150,
+        3568376828,
+        14345735158,
+        14345735157,
+        14345735155,
+        14345735154,
+        14345735156,
+        14345735153,
+        14345735152,
+        14345735151
+      ]
+    },
+    {
+      "id": 1469221633,
+      "type": "residential",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          196.28,
+          109.37
+        ],
+        [
+          167.69,
+          111.73
+        ],
+        [
+          170.08,
+          124.99
+        ],
+        [
+          148.68,
+          125.51
+        ]
+      ],
+      "nodeIds": [
+        13474454916,
+        13474454917,
+        13474454918,
+        13474454919
+      ]
+    },
+    {
+      "id": 1469221634,
+      "type": "residential",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          199.69,
+          39.86
+        ],
+        [
+          195.34,
+          34.02
+        ],
+        [
+          188.01,
+          35.96
+        ],
+        [
+          160.09,
+          -54.96
+        ]
+      ],
+      "nodeIds": [
+        13474454921,
+        13474454922,
+        13474454923,
+        13474454924
+      ]
+    },
+    {
+      "id": 1469221635,
+      "type": "residential",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          180.15,
+          -99.74
+        ],
+        [
+          185.48,
+          -89.28
+        ],
+        [
+          187.68,
+          -86.17
+        ],
+        [
+          190.34,
+          -83.48
+        ],
+        [
+          192.43,
+          -81.89
+        ],
+        [
+          194.67,
+          -80.55
+        ],
+        [
+          196.25,
+          -78.47
+        ],
+        [
+          196.94,
+          -75.94
+        ],
+        [
+          200.15,
+          -62.78
+        ],
+        [
+          202.75,
+          -49.49
+        ],
+        [
+          204.74,
+          -36.09
+        ],
+        [
+          206.84,
+          -26.32
+        ],
+        [
+          209.46,
+          -16.66
+        ],
+        [
+          212.6,
+          -7.17
+        ]
+      ],
+      "nodeIds": [
+        13474454950,
+        13474454944,
+        13474454941,
+        13474454943,
+        13474454940,
+        13474454942,
+        13474454938,
+        13474454939,
+        13474454936,
+        13474454935,
+        13474454937,
+        13474454933,
+        13474454932,
+        13474454934
+      ]
+    },
+    {
+      "id": 1469221636,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          217.42,
+          -107.01
+        ],
+        [
+          216.17,
+          -110.77
+        ]
+      ],
+      "nodeIds": [
+        13474454957,
+        13474454959
+      ]
+    },
+    {
+      "id": 1469221637,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          221.67,
+          -94.24
+        ],
+        [
+          217.42,
+          -107.01
+        ]
+      ],
+      "nodeIds": [
+        13474454956,
+        13474454957
+      ]
+    },
+    {
+      "id": 1469221638,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          210.47,
+          -90.55
+        ],
+        [
+          206.18,
+          -103.32
+        ]
+      ],
+      "nodeIds": [
+        13474454954,
+        13474454955
+      ]
+    },
+    {
+      "id": 1469221639,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          264.48,
+          -100.25
+        ],
+        [
+          248.26,
+          -93.34
+        ],
+        [
+          223.01,
+          -90.22
+        ],
+        [
+          211.07,
+          -88.74
+        ],
+        [
+          210.47,
+          -90.55
+        ]
+      ],
+      "nodeIds": [
+        12635790815,
+        13474454961,
+        13474454958,
+        12635790804,
+        13474454954
+      ]
+    },
+    {
+      "id": 1469221640,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          223.01,
+          -90.22
+        ],
+        [
+          221.67,
+          -94.24
+        ]
+      ],
+      "nodeIds": [
+        13474454958,
+        13474454956
+      ]
+    },
+    {
+      "id": 1469221642,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          9.53,
+          -32.89
+        ],
+        [
+          9.3,
+          -27.81
+        ],
+        [
+          9.88,
+          -22.75
+        ],
+        [
+          11.26,
+          -17.86
+        ],
+        [
+          13.4,
+          -13.24
+        ],
+        [
+          16.41,
+          -8.82
+        ],
+        [
+          20.13,
+          -4.96
+        ],
+        [
+          24.42,
+          -1.78
+        ],
+        [
+          29.2,
+          0.62
+        ]
+      ],
+      "nodeIds": [
+        13474455028,
+        13474454977,
+        13474454976,
+        13474454975,
+        13474454978,
+        13474454974,
+        13474454973,
+        13474454972,
+        13474455030
+      ]
+    },
+    {
+      "id": 1469221643,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          -51.31,
+          -45.28
+        ],
+        [
+          -32.65,
+          21.35
+        ],
+        [
+          -29.18,
+          28.03
+        ],
+        [
+          -27.45,
+          31.37
+        ],
+        [
+          -25.45,
+          34.55
+        ],
+        [
+          -21.77,
+          39.25
+        ],
+        [
+          -17.49,
+          43.43
+        ],
+        [
+          -15.23,
+          45.36
+        ],
+        [
+          -12.72,
+          47.01
+        ],
+        [
+          -8.41,
+          48.96
+        ],
+        [
+          -3.8,
+          50.02
+        ],
+        [
+          43.48,
+          21.47
+        ]
+      ],
+      "nodeIds": [
+        13474455006,
+        13474454992,
+        13474454986,
+        13474454984,
+        13474454991,
+        13474454983,
+        13474454982,
+        13474454980,
+        13474454985,
+        13474454979,
+        13474454981,
+        13608948735
+      ]
+    },
+    {
+      "id": 1469221644,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          -113.42,
+          -34.5
+        ],
+        [
+          -118.96,
+          -60.95
+        ]
+      ],
+      "nodeIds": [
+        13474454999,
+        13474454993
+      ]
+    },
+    {
+      "id": 1469221645,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          -8.8,
+          -60.61
+        ],
+        [
+          -15.85,
+          -56.13
+        ],
+        [
+          -23.32,
+          -52.35
+        ],
+        [
+          -30.07,
+          -49.69
+        ],
+        [
+          -37.01,
+          -47.62
+        ],
+        [
+          -44.11,
+          -46.15
+        ],
+        [
+          -51.31,
+          -45.28
+        ],
+        [
+          -63.56,
+          -44.19
+        ],
+        [
+          -69.7,
+          -44.02
+        ],
+        [
+          -75.83,
+          -43.56
+        ],
+        [
+          -85.45,
+          -42.29
+        ],
+        [
+          -94.95,
+          -40.34
+        ],
+        [
+          -104.29,
+          -37.75
+        ],
+        [
+          -113.42,
+          -34.5
+        ],
+        [
+          -138.35,
+          -30.89
+        ]
+      ],
+      "nodeIds": [
+        13474455016,
+        13474455005,
+        13474455007,
+        13474455004,
+        13474455003,
+        13474455002,
+        13474455006,
+        13474455000,
+        13474454998,
+        13474455001,
+        13474454997,
+        13474454996,
+        13474454995,
+        13474454999,
+        13474454994
+      ]
+    },
+    {
+      "id": 1469221646,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          67.36,
+          36.87
+        ],
+        [
+          62.39,
+          35.07
+        ],
+        [
+          57.63,
+          32.77
+        ],
+        [
+          53.12,
+          30.02
+        ],
+        [
+          48.85,
+          26.78
+        ],
+        [
+          44.92,
+          23.12
+        ],
+        [
+          43.48,
+          21.47
+        ],
+        [
+          41.4,
+          19.09
+        ],
+        [
+          29.2,
+          0.62
+        ],
+        [
+          31.64,
+          -2.37
+        ],
+        [
+          33.45,
+          -5.78
+        ],
+        [
+          34.59,
+          -9.47
+        ],
+        [
+          34.99,
+          -13.31
+        ],
+        [
+          34.66,
+          -17.17
+        ],
+        [
+          33.59,
+          -20.87
+        ],
+        [
+          31.66,
+          -24.6
+        ],
+        [
+          28.98,
+          -27.84
+        ],
+        [
+          25.69,
+          -30.46
+        ],
+        [
+          21.94,
+          -32.34
+        ],
+        [
+          17.87,
+          -33.4
+        ],
+        [
+          13.68,
+          -33.59
+        ],
+        [
+          9.53,
+          -32.89
+        ],
+        [
+          -8.8,
+          -60.61
+        ],
+        [
+          -14.52,
+          -69.29
+        ],
+        [
+          -37.72,
+          -90.74
+        ],
+        [
+          -68.37,
+          -89.01
+        ],
+        [
+          -72.87,
+          -92.87
+        ],
+        [
+          -76.94,
+          -97.19
+        ],
+        [
+          -80.52,
+          -101.92
+        ],
+        [
+          -83.57,
+          -107
+        ],
+        [
+          -86.45,
+          -113.38
+        ],
+        [
+          -88.5,
+          -120.07
+        ]
+      ],
+      "nodeIds": [
+        3568376809,
+        13474455034,
+        13474455033,
+        13474455036,
+        13474455032,
+        13474455031,
+        13608948735,
+        13474455035,
+        13474455030,
+        13474455027,
+        13474455026,
+        13474455025,
+        13474455024,
+        13474455023,
+        13474455029,
+        13474455022,
+        13474455021,
+        13474455020,
+        13474455019,
+        13474455018,
+        13474455017,
+        13474455028,
+        13474455016,
+        13608948839,
+        13474455015,
+        13474455014,
+        13474455011,
+        13474455010,
+        13474455009,
+        13474455013,
+        13474455008,
+        13474455012
+      ]
+    },
+    {
+      "id": 1484218552,
+      "type": "service",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          103.5,
+          -64.55
+        ],
+        [
+          92.64,
+          -65.95
+        ],
+        [
+          71.05,
+          -39.03
+        ],
+        [
+          65.88,
+          -34.13
+        ],
+        [
+          60.31,
+          -29.7
+        ],
+        [
+          54.38,
+          -25.77
+        ],
+        [
+          48.12,
+          -22.36
+        ],
+        [
+          41.5,
+          -19.47
+        ],
+        [
+          34.66,
+          -17.17
+        ]
+      ],
+      "nodeIds": [
+        13474454836,
+        13608948862,
+        13608948867,
+        13608948863,
+        13608948864,
+        13608948865,
+        13608948868,
+        13608948866,
+        13474455023
+      ]
+    }
+  ],
+  "paths": [
+    {
+      "id": 1364673498,
+      "type": "footway",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          235.95,
+          -138.11
+        ],
+        [
+          230.33,
+          -145.03
+        ],
+        [
+          227.77,
+          -148.96
+        ],
+        [
+          223.83,
+          -154.89
+        ],
+        [
+          220.37,
+          -160.26
+        ],
+        [
+          216.44,
+          -166.51
+        ],
+        [
+          213.37,
+          -171.84
+        ],
+        [
+          209.57,
+          -177.51
+        ],
+        [
+          205.74,
+          -183.44
+        ],
+        [
+          200.94,
+          -190.88
+        ],
+        [
+          195.28,
+          -199.61
+        ],
+        [
+          189.84,
+          -207.97
+        ],
+        [
+          183.55,
+          -217.83
+        ],
+        [
+          58.92,
+          -415.77
+        ],
+        [
+          51.34,
+          -426.44
+        ]
+      ],
+      "nodeIds": [
+        12637902475,
+        12637902474,
+        12637902473,
+        12637902472,
+        12637902471,
+        12637902470,
+        12637902469,
+        12637902468,
+        12637902467,
+        12637902466,
+        12637902465,
+        12637902464,
+        12637902463,
+        12637902462,
+        12637902461
+      ]
+    },
+    {
+      "id": 1484218549,
+      "type": "path",
+      "name": "Campus Pathway",
+      "points": [
+        [
+          -12.4,
+          -71.3
+        ],
+        [
+          -1.83,
+          -82.33
+        ]
+      ],
+      "nodeIds": [
+        13608948839,
+        13608948836
+      ]
+    }
+  ],
+  "trees": [
+    {
+      "position": [
+        -80.9,
+        0,
+        -58.3
+      ],
+      "type": 2,
+      "scale": 0.76
+    },
+    {
+      "position": [
+        27.2,
+        0,
+        72.4
+      ],
+      "type": 2,
+      "scale": 1.09
+    },
+    {
+      "position": [
+        8.3,
+        0,
+        -59.4
+      ],
+      "type": 2,
+      "scale": 0.87
+    },
+    {
+      "position": [
+        -79.9,
+        0,
+        -61.4
+      ],
+      "type": 1,
+      "scale": 0.76
+    },
+    {
+      "position": [
+        -46.2,
+        0,
+        -5.8
+      ],
+      "type": 1,
+      "scale": 1.06
+    },
+    {
+      "position": [
+        -96.5,
+        0,
+        -32.7
+      ],
+      "type": 0,
+      "scale": 1.21
+    },
+    {
+      "position": [
+        114.6,
+        0,
+        2.3
+      ],
+      "type": 1,
+      "scale": 1.08
+    },
+    {
+      "position": [
+        -102.5,
+        0,
+        -41.4
+      ],
+      "type": 2,
+      "scale": 1.09
+    },
+    {
+      "position": [
+        69.2,
+        0,
+        -81.4
+      ],
+      "type": 1,
+      "scale": 0.86
+    },
+    {
+      "position": [
+        65.5,
+        0,
+        -62.4
+      ],
+      "type": 1,
+      "scale": 0.94
+    },
+    {
+      "position": [
+        -84.2,
+        0,
+        -49.3
+      ],
+      "type": 2,
+      "scale": 1.02
+    },
+    {
+      "position": [
+        75.1,
+        0,
+        21
+      ],
+      "type": 2,
+      "scale": 0.94
+    },
+    {
+      "position": [
+        -3.4,
+        0,
+        -109.4
+      ],
+      "type": 0,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        -121.3,
+        0,
+        -82.8
+      ],
+      "type": 2,
+      "scale": 0.95
+    },
+    {
+      "position": [
+        53.5,
+        0,
+        63
+      ],
+      "type": 1,
+      "scale": 1.16
+    },
+    {
+      "position": [
+        66.9,
+        0,
+        133.6
+      ],
+      "type": 2,
+      "scale": 1.16
+    },
+    {
+      "position": [
+        -4,
+        0,
+        -103.5
+      ],
+      "type": 2,
+      "scale": 0.88
+    },
+    {
+      "position": [
+        39.4,
+        0,
+        90.8
+      ],
+      "type": 0,
+      "scale": 0.92
+    },
+    {
+      "position": [
+        26.2,
+        0,
+        44.3
+      ],
+      "type": 0,
+      "scale": 1.26
+    },
+    {
+      "position": [
+        -31.9,
+        0,
+        -62.7
+      ],
+      "type": 2,
+      "scale": 1.15
+    },
+    {
+      "position": [
+        56.2,
+        0,
+        131
+      ],
+      "type": 1,
+      "scale": 1.3
+    },
+    {
+      "position": [
+        43,
+        0,
+        24.8
+      ],
+      "type": 2,
+      "scale": 0.97
+    },
+    {
+      "position": [
+        -89.9,
+        0,
+        -119.8
+      ],
+      "type": 0,
+      "scale": 1.05
+    },
+    {
+      "position": [
+        -95.7,
+        0,
+        -59.5
+      ],
+      "type": 0,
+      "scale": 1.12
+    },
+    {
+      "position": [
+        67.3,
+        0,
+        196.5
+      ],
+      "type": 2,
+      "scale": 0.98
+    },
+    {
+      "position": [
+        87.6,
+        0,
+        167.5
+      ],
+      "type": 0,
+      "scale": 0.76
+    },
+    {
+      "position": [
+        46,
+        0,
+        -7.6
+      ],
+      "type": 1,
+      "scale": 0.98
+    },
+    {
+      "position": [
+        -38.7,
+        0,
+        -13.4
+      ],
+      "type": 0,
+      "scale": 0.85
+    },
+    {
+      "position": [
+        -32.3,
+        0,
+        -36.9
+      ],
+      "type": 0,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        43.8,
+        0,
+        64.4
+      ],
+      "type": 0,
+      "scale": 1.28
+    },
+    {
+      "position": [
+        19.6,
+        0,
+        65
+      ],
+      "type": 2,
+      "scale": 0.89
+    },
+    {
+      "position": [
+        45.5,
+        0,
+        73.9
+      ],
+      "type": 1,
+      "scale": 1.26
+    },
+    {
+      "position": [
+        50.2,
+        0,
+        -28.6
+      ],
+      "type": 1,
+      "scale": 1.26
+    },
+    {
+      "position": [
+        33.5,
+        0,
+        73
+      ],
+      "type": 0,
+      "scale": 0.74
+    },
+    {
+      "position": [
+        -101.3,
+        0,
+        -42.1
+      ],
+      "type": 1,
+      "scale": 1.23
+    },
+    {
+      "position": [
+        11.1,
+        0,
+        -39.3
+      ],
+      "type": 2,
+      "scale": 0.83
+    },
+    {
+      "position": [
+        102.3,
+        0,
+        -127.5
+      ],
+      "type": 1,
+      "scale": 1.16
+    },
+    {
+      "position": [
+        38.8,
+        0,
+        -43.3
+      ],
+      "type": 2,
+      "scale": 0.97
+    },
+    {
+      "position": [
+        75.9,
+        0,
+        213.3
+      ],
+      "type": 0,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        71.7,
+        0,
+        -16.2
+      ],
+      "type": 1,
+      "scale": 1.18
+    },
+    {
+      "position": [
+        -84.1,
+        0,
+        -102.7
+      ],
+      "type": 1,
+      "scale": 0.91
+    },
+    {
+      "position": [
+        55.2,
+        0,
+        218.9
+      ],
+      "type": 2,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        47.8,
+        0,
+        -17
+      ],
+      "type": 1,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        11.5,
+        0,
+        -70.4
+      ],
+      "type": 2,
+      "scale": 1.26
+    },
+    {
+      "position": [
+        52.1,
+        0,
+        204.4
+      ],
+      "type": 2,
+      "scale": 1.04
+    },
+    {
+      "position": [
+        -71.4,
+        0,
+        -63.3
+      ],
+      "type": 2,
+      "scale": 1.06
+    },
+    {
+      "position": [
+        51.5,
+        0,
+        53
+      ],
+      "type": 2,
+      "scale": 0.8
+    },
+    {
+      "position": [
+        37.4,
+        0,
+        -15
+      ],
+      "type": 0,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        -97.5,
+        0,
+        -67.6
+      ],
+      "type": 0,
+      "scale": 0.73
+    },
+    {
+      "position": [
+        65.6,
+        0,
+        3.8
+      ],
+      "type": 1,
+      "scale": 0.85
+    },
+    {
+      "position": [
+        76.4,
+        0,
+        153.1
+      ],
+      "type": 0,
+      "scale": 1.17
+    },
+    {
+      "position": [
+        58.2,
+        0,
+        35
+      ],
+      "type": 2,
+      "scale": 0.85
+    },
+    {
+      "position": [
+        30.7,
+        0,
+        133.4
+      ],
+      "type": 2,
+      "scale": 0.96
+    },
+    {
+      "position": [
+        105.8,
+        0,
+        -37.4
+      ],
+      "type": 2,
+      "scale": 0.99
+    },
+    {
+      "position": [
+        64.1,
+        0,
+        -53.9
+      ],
+      "type": 1,
+      "scale": 0.89
+    },
+    {
+      "position": [
+        -34.4,
+        0,
+        -64.6
+      ],
+      "type": 1,
+      "scale": 0.93
+    },
+    {
+      "position": [
+        82.7,
+        0,
+        221.1
+      ],
+      "type": 0,
+      "scale": 1.21
+    },
+    {
+      "position": [
+        81.3,
+        0,
+        2.4
+      ],
+      "type": 0,
+      "scale": 1.27
+    },
+    {
+      "position": [
+        92.6,
+        0,
+        202.4
+      ],
+      "type": 1,
+      "scale": 0.83
+    },
+    {
+      "position": [
+        -38.2,
+        0,
+        -80.8
+      ],
+      "type": 1,
+      "scale": 1.25
+    },
+    {
+      "position": [
+        -111.7,
+        0,
+        -44
+      ],
+      "type": 1,
+      "scale": 0.83
+    },
+    {
+      "position": [
+        103.2,
+        0,
+        -47.1
+      ],
+      "type": 0,
+      "scale": 0.98
+    },
+    {
+      "position": [
+        33.6,
+        0,
+        -52.4
+      ],
+      "type": 1,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        14.6,
+        0,
+        -60.3
+      ],
+      "type": 2,
+      "scale": 0.85
+    },
+    {
+      "position": [
+        85.3,
+        0,
+        -81.3
+      ],
+      "type": 1,
+      "scale": 0.76
+    },
+    {
+      "position": [
+        -163.3,
+        0,
+        -24
+      ],
+      "type": 2,
+      "scale": 1.24
+    },
+    {
+      "position": [
+        102.7,
+        0,
+        -50.7
+      ],
+      "type": 2,
+      "scale": 1.16
+    },
+    {
+      "position": [
+        86.9,
+        0,
+        -10.4
+      ],
+      "type": 1,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        -9.8,
+        0,
+        23
+      ],
+      "type": 1,
+      "scale": 1.08
+    },
+    {
+      "position": [
+        -12,
+        0,
+        23.8
+      ],
+      "type": 2,
+      "scale": 1.06
+    },
+    {
+      "position": [
+        -65.3,
+        0,
+        -49.7
+      ],
+      "type": 0,
+      "scale": 0.87
+    },
+    {
+      "position": [
+        -54.5,
+        0,
+        -44.7
+      ],
+      "type": 1,
+      "scale": 1.23
+    },
+    {
+      "position": [
+        60,
+        0,
+        -37.8
+      ],
+      "type": 0,
+      "scale": 1.01
+    },
+    {
+      "position": [
+        -108.6,
+        0,
+        -51.3
+      ],
+      "type": 1,
+      "scale": 0.99
+    },
+    {
+      "position": [
+        41.7,
+        0,
+        45.1
+      ],
+      "type": 0,
+      "scale": 0.76
+    },
+    {
+      "position": [
+        -82.2,
+        0,
+        -47.4
+      ],
+      "type": 0,
+      "scale": 1.13
+    },
+    {
+      "position": [
+        -167.7,
+        0,
+        -34.7
+      ],
+      "type": 1,
+      "scale": 0.96
+    },
+    {
+      "position": [
+        100,
+        0,
+        10.3
+      ],
+      "type": 0,
+      "scale": 1.05
+    },
+    {
+      "position": [
+        84.6,
+        0,
+        2.4
+      ],
+      "type": 1,
+      "scale": 0.88
+    },
+    {
+      "position": [
+        -84.3,
+        0,
+        -113.2
+      ],
+      "type": 0,
+      "scale": 0.8
+    },
+    {
+      "position": [
+        -75.5,
+        0,
+        -55.1
+      ],
+      "type": 2,
+      "scale": 0.87
+    },
+    {
+      "position": [
+        -94.6,
+        0,
+        -42.3
+      ],
+      "type": 2,
+      "scale": 1.05
+    },
+    {
+      "position": [
+        93.9,
+        0,
+        -68.1
+      ],
+      "type": 0,
+      "scale": 1.03
+    },
+    {
+      "position": [
+        42.3,
+        0,
+        206.5
+      ],
+      "type": 0,
+      "scale": 0.74
+    },
+    {
+      "position": [
+        75.8,
+        0,
+        75.4
+      ],
+      "type": 1,
+      "scale": 0.96
+    },
+    {
+      "position": [
+        -38.8,
+        0,
+        -39.4
+      ],
+      "type": 2,
+      "scale": 1
+    },
+    {
+      "position": [
+        -89,
+        0,
+        -109.3
+      ],
+      "type": 2,
+      "scale": 1.2
+    },
+    {
+      "position": [
+        18.3,
+        0,
+        222.9
+      ],
+      "type": 2,
+      "scale": 1.19
+    },
+    {
+      "position": [
+        -88.4,
+        0,
+        -99.8
+      ],
+      "type": 1,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        34,
+        0,
+        48.1
+      ],
+      "type": 1,
+      "scale": 1.16
+    },
+    {
+      "position": [
+        -92.7,
+        0,
+        -83.4
+      ],
+      "type": 2,
+      "scale": 0.71
+    },
+    {
+      "position": [
+        -36.9,
+        0,
+        -57.7
+      ],
+      "type": 0,
+      "scale": 0.98
+    },
+    {
+      "position": [
+        99.4,
+        0,
+        -35.3
+      ],
+      "type": 1,
+      "scale": 1.2
+    },
+    {
+      "position": [
+        80.4,
+        0,
+        1.2
+      ],
+      "type": 1,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        -36,
+        0,
+        -21.6
+      ],
+      "type": 1,
+      "scale": 1.12
+    },
+    {
+      "position": [
+        96.4,
+        0,
+        4.6
+      ],
+      "type": 2,
+      "scale": 1.18
+    },
+    {
+      "position": [
+        35.4,
+        0,
+        198.4
+      ],
+      "type": 1,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        36.8,
+        0,
+        211.4
+      ],
+      "type": 0,
+      "scale": 1.15
+    },
+    {
+      "position": [
+        37.7,
+        0,
+        192.7
+      ],
+      "type": 1,
+      "scale": 0.8
+    },
+    {
+      "position": [
+        53.6,
+        0,
+        -75
+      ],
+      "type": 0,
+      "scale": 0.75
+    },
+    {
+      "position": [
+        -87.8,
+        0,
+        -45.9
+      ],
+      "type": 0,
+      "scale": 1.24
+    },
+    {
+      "position": [
+        56.4,
+        0,
+        32
+      ],
+      "type": 1,
+      "scale": 0.82
+    },
+    {
+      "position": [
+        18.2,
+        0,
+        239.1
+      ],
+      "type": 1,
+      "scale": 0.71
+    },
+    {
+      "position": [
+        102.6,
+        0,
+        8.4
+      ],
+      "type": 0,
+      "scale": 1.04
+    },
+    {
+      "position": [
+        54.9,
+        0,
+        143.3
+      ],
+      "type": 0,
+      "scale": 1.25
+    },
+    {
+      "position": [
+        74.5,
+        0,
+        177.3
+      ],
+      "type": 1,
+      "scale": 1.17
+    },
+    {
+      "position": [
+        -99.4,
+        0,
+        -71.1
+      ],
+      "type": 1,
+      "scale": 1.11
+    },
+    {
+      "position": [
+        75.3,
+        0,
+        -76.7
+      ],
+      "type": 0,
+      "scale": 1.17
+    },
+    {
+      "position": [
+        51.1,
+        0,
+        9
+      ],
+      "type": 2,
+      "scale": 0.92
+    },
+    {
+      "position": [
+        21.4,
+        0,
+        173.3
+      ],
+      "type": 1,
+      "scale": 0.77
+    },
+    {
+      "position": [
+        -9,
+        0,
+        -107
+      ],
+      "type": 2,
+      "scale": 0.78
+    },
+    {
+      "position": [
+        73.8,
+        0,
+        221.1
+      ],
+      "type": 1,
+      "scale": 1.05
+    },
+    {
+      "position": [
+        68.4,
+        0,
+        197.7
+      ],
+      "type": 2,
+      "scale": 0.76
+    },
+    {
+      "position": [
+        88.3,
+        0,
+        -50.4
+      ],
+      "type": 0,
+      "scale": 1.17
+    },
+    {
+      "position": [
+        97,
+        0,
+        -54.5
+      ],
+      "type": 0,
+      "scale": 1.17
+    },
+    {
+      "position": [
+        25.2,
+        0,
+        -37.4
+      ],
+      "type": 0,
+      "scale": 1.29
+    },
+    {
+      "position": [
+        -166.6,
+        0,
+        -42
+      ],
+      "type": 0,
+      "scale": 1.15
+    },
+    {
+      "position": [
+        -2.1,
+        0,
+        -102.4
+      ],
+      "type": 2,
+      "scale": 0.83
+    },
+    {
+      "position": [
+        31.5,
+        0,
+        136.5
+      ],
+      "type": 2,
+      "scale": 1.01
+    },
+    {
+      "position": [
+        48.1,
+        0,
+        0.1
+      ],
+      "type": 0,
+      "scale": 1.11
+    },
+    {
+      "position": [
+        -15,
+        0,
+        -109.3
+      ],
+      "type": 0,
+      "scale": 0.76
+    },
+    {
+      "position": [
+        22.1,
+        0,
+        72.5
+      ],
+      "type": 1,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        -79.7,
+        0,
+        -57.2
+      ],
+      "type": 1,
+      "scale": 1.21
+    },
+    {
+      "position": [
+        102.4,
+        0,
+        -41.2
+      ],
+      "type": 0,
+      "scale": 0.86
+    },
+    {
+      "position": [
+        80.2,
+        0,
+        211.6
+      ],
+      "type": 1,
+      "scale": 0.7
+    },
+    {
+      "position": [
+        74.8,
+        0,
+        -61.4
+      ],
+      "type": 1,
+      "scale": 0.97
+    },
+    {
+      "position": [
+        25.3,
+        0,
+        196.9
+      ],
+      "type": 0,
+      "scale": 0.79
+    },
+    {
+      "position": [
+        32.4,
+        0,
+        115.9
+      ],
+      "type": 1,
+      "scale": 0.97
+    },
+    {
+      "position": [
+        -34.9,
+        0,
+        -61.3
+      ],
+      "type": 2,
+      "scale": 0.77
+    },
+    {
+      "position": [
+        52.5,
+        0,
+        43.5
+      ],
+      "type": 2,
+      "scale": 0.89
+    },
+    {
+      "position": [
+        -153.7,
+        0,
+        -65.6
+      ],
+      "type": 0,
+      "scale": 1.16
+    },
+    {
+      "position": [
+        80.8,
+        0,
+        -32.7
+      ],
+      "type": 0,
+      "scale": 0.7
+    },
+    {
+      "position": [
+        75.1,
+        0,
+        -76.7
+      ],
+      "type": 1,
+      "scale": 1.02
+    },
+    {
+      "position": [
+        49,
+        0,
+        -7.7
+      ],
+      "type": 1,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        62.7,
+        0,
+        16.9
+      ],
+      "type": 0,
+      "scale": 0.94
+    },
+    {
+      "position": [
+        56.2,
+        0,
+        -4.7
+      ],
+      "type": 1,
+      "scale": 1.21
+    },
+    {
+      "position": [
+        -61.7,
+        0,
+        -79.6
+      ],
+      "type": 2,
+      "scale": 1.08
+    },
+    {
+      "position": [
+        3.6,
+        0,
+        -69.6
+      ],
+      "type": 1,
+      "scale": 0.91
+    },
+    {
+      "position": [
+        -87.2,
+        0,
+        -77.5
+      ],
+      "type": 0,
+      "scale": 1.16
+    },
+    {
+      "position": [
+        44.9,
+        0,
+        -76.1
+      ],
+      "type": 2,
+      "scale": 1
+    },
+    {
+      "position": [
+        77.6,
+        0,
+        149.1
+      ],
+      "type": 1,
+      "scale": 1.11
+    },
+    {
+      "position": [
+        -26.4,
+        0,
+        36.7
+      ],
+      "type": 2,
+      "scale": 0.88
+    },
+    {
+      "position": [
+        -81,
+        0,
+        -122.9
+      ],
+      "type": 2,
+      "scale": 0.74
+    },
+    {
+      "position": [
+        -49.9,
+        0,
+        -33.6
+      ],
+      "type": 2,
+      "scale": 1.22
+    },
+    {
+      "position": [
+        -4.2,
+        0,
+        34.3
+      ],
+      "type": 2,
+      "scale": 1.27
+    },
+    {
+      "position": [
+        29.8,
+        0,
+        -3.9
+      ],
+      "type": 1,
+      "scale": 0.93
+    },
+    {
+      "position": [
+        47.6,
+        0,
+        209.8
+      ],
+      "type": 1,
+      "scale": 1.28
+    },
+    {
+      "position": [
+        59.1,
+        0,
+        6.9
+      ],
+      "type": 2,
+      "scale": 1.13
+    },
+    {
+      "position": [
+        40.9,
+        0,
+        -17.6
+      ],
+      "type": 0,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        54.8,
+        0,
+        58.9
+      ],
+      "type": 2,
+      "scale": 1.1
+    },
+    {
+      "position": [
+        -120.6,
+        0,
+        -30.3
+      ],
+      "type": 0,
+      "scale": 1
+    },
+    {
+      "position": [
+        34.7,
+        0,
+        204.3
+      ],
+      "type": 2,
+      "scale": 0.96
+    },
+    {
+      "position": [
+        40.1,
+        0,
+        193.3
+      ],
+      "type": 2,
+      "scale": 1.26
+    },
+    {
+      "position": [
+        63.4,
+        0,
+        54.8
+      ],
+      "type": 0,
+      "scale": 0.87
+    },
+    {
+      "position": [
+        80.4,
+        0,
+        -39.1
+      ],
+      "type": 2,
+      "scale": 0.79
+    },
+    {
+      "position": [
+        43,
+        0,
+        161.3
+      ],
+      "type": 0,
+      "scale": 0.72
+    },
+    {
+      "position": [
+        -93.2,
+        0,
+        -97.5
+      ],
+      "type": 0,
+      "scale": 0.95
+    },
+    {
+      "position": [
+        -1.4,
+        0,
+        -51.1
+      ],
+      "type": 0,
+      "scale": 0.87
+    },
+    {
+      "position": [
+        16.8,
+        0,
+        -72.2
+      ],
+      "type": 2,
+      "scale": 0.75
+    },
+    {
+      "position": [
+        150.4,
+        0,
+        -118.4
+      ],
+      "type": 2,
+      "scale": 1.03
+    },
+    {
+      "position": [
+        40.7,
+        0,
+        176.4
+      ],
+      "type": 2,
+      "scale": 0.98
+    },
+    {
+      "position": [
+        86.3,
+        0,
+        190.1
+      ],
+      "type": 1,
+      "scale": 0.86
+    },
+    {
+      "id": "big-tree-1",
+      "position": [
+        26,
+        0.08,
+        -64
+      ],
+      "type": 0,
+      "scale": 2.35
+    },
+    {
+      "id": "big-tree-2",
+      "position": [
+        52,
+        0.08,
+        -78
+      ],
+      "type": 3,
+      "scale": 2.25
+    },
+    {
+      "id": "coconut-1",
+      "position": [
+        31.5,
+        0.08,
+        -28
+      ],
+      "type": 4,
+      "scale": 1.15
+    },
+    {
+      "id": "coconut-2",
+      "position": [
+        25.5,
+        0.08,
+        -34.2
+      ],
+      "type": 4,
+      "scale": 1.08
+    },
+    {
+      "id": "coconut-3",
+      "position": [
+        18,
+        0.08,
+        -37.2
+      ],
+      "type": 4,
+      "scale": 1.18
+    },
+    {
+      "id": "coconut-4",
+      "position": [
+        9.5,
+        0.08,
+        -37.5
+      ],
+      "type": 4,
+      "scale": 1.1
+    },
+    {
+      "id": "coconut-5",
+      "position": [
+        45,
+        0.08,
+        -25.5
+      ],
+      "type": 4,
+      "scale": 1.15
+    },
+    {
+      "id": "coconut-6",
+      "position": [
+        54,
+        0.08,
+        -30.5
+      ],
+      "type": 4,
+      "scale": 1.12
+    },
+    {
+      "id": "coconut-7",
+      "position": [
+        63,
+        0.08,
+        -36.5
+      ],
+      "type": 4,
+      "scale": 1.18
+    },
+    {
+      "id": "sg-border-tree-1",
+      "position": [
+        11.2,
+        0.08,
+        162
+      ],
+      "type": 0,
+      "scale": 1.15
+    },
+    {
+      "id": "sg-border-tree-2",
+      "position": [
+        10.4,
+        0.08,
+        186
+      ],
+      "type": 3,
+      "scale": 1.2
+    },
+    {
+      "id": "sg-border-tree-3",
+      "position": [
+        11.5,
+        0.08,
+        210
+      ],
+      "type": 1,
+      "scale": 1.1
+    },
+    {
+      "id": "sg-border-tree-4",
+      "position": [
+        99.8,
+        0.08,
+        160
+      ],
+      "type": 3,
+      "scale": 1.15
+    },
+    {
+      "id": "sg-border-tree-5",
+      "position": [
+        101.8,
+        0.08,
+        182
+      ],
+      "type": 0,
+      "scale": 1.25
+    },
+    {
+      "id": "sg-border-tree-6",
+      "position": [
+        99.5,
+        0.08,
+        204
+      ],
+      "type": 2,
+      "scale": 1.1
+    },
+    {
+      "id": "sg-border-tree-7",
+      "position": [
+        35,
+        0.08,
+        239
+      ],
+      "type": 0,
+      "scale": 1.15
+    },
+    {
+      "id": "sg-border-tree-8",
+      "position": [
+        62,
+        0.08,
+        234.5
+      ],
+      "type": 3,
+      "scale": 1.2
+    },
+    {
+      "id": "sg-border-tree-9",
+      "position": [
+        45,
+        0.08,
+        122
+      ],
+      "type": 1,
+      "scale": 1.1
+    },
+    {
+      "id": "sg-border-tree-10",
+      "position": [
+        72,
+        0.08,
+        128
+      ],
+      "type": 0,
+      "scale": 1.15
+    }
+  ],
+  "tourStops": [
+    {
+      "id": "stop-1",
+      "step": 1,
+      "title": "Main Entrance & Security Gate",
+      "buildingId": "main-gate-security",
+      "cameraPosition": [
+        188,
+        16,
+        -126
+      ],
+      "targetPosition": [
+        152,
+        2,
+        -108
+      ],
+      "description": "Welcome to Siliguri Institute of Technology! The main campus gate sits on Hill Cart Road in Salbari, surrounded by the Chamtaguri Tea Gardens.",
+      "highlights": [
+        "Main Campus Entrance Arch",
+        "Security Checkpoint & Visitor Lounge",
+        "Highway Approach Road"
+      ]
+    },
+    {
+      "id": "stop-2",
+      "step": 2,
+      "title": "Central Reception & Administration Block",
+      "buildingId": "admin-library-block",
+      "cameraPosition": [
+        128,
+        22,
+        48
+      ],
+      "targetPosition": [
+        94.9,
+        6,
+        24.1
+      ],
+      "description": "The administrative heart of SIT housing the Principal and Director offices, Registrar, Student Affairs, and Accounts.",
+      "highlights": [
+        "Director & Principal Secretariat",
+        "Student Affairs & Admissions",
+        "Examination Cell"
+      ]
+    },
+    {
+      "id": "stop-3",
+      "step": 3,
+      "title": "Central Digital Library",
+      "buildingId": "admin-library-block",
+      "cameraPosition": [
+        62,
+        24,
+        44
+      ],
+      "targetPosition": [
+        94.9,
+        8,
+        24.1
+      ],
+      "description": "Houses over 50,000 engineering, management, and scientific volumes along with IEEE/Springer digital access and quiet reading halls.",
+      "highlights": [
+        "50,000+ Academic Volumes",
+        "Digital Library Terminals",
+        "Air-conditioned Reading Rooms"
+      ]
+    },
+    {
+      "id": "stop-4",
+      "step": 4,
+      "title": "Main Academic & Technology Complex",
+      "buildingId": "main-academic-block",
+      "cameraPosition": [
+        48,
+        22,
+        -56
+      ],
+      "targetPosition": [
+        3.2,
+        8,
+        -4.2
+      ],
+      "description": "The flagship 4-story complex with its iconic dome, housing CSE, ECE, EE, IT, and ECS departments, smart classrooms, and computing labs.",
+      "highlights": [
+        "Iconic Central Dome & Portico",
+        "Engineering Departments & Smart Classrooms",
+        "AI, ML & Computing Labs"
+      ]
+    },
+    {
+      "id": "stop-5",
+      "step": 5,
+      "title": "Central Landscaped Garden",
+      "buildingId": "central-garden",
+      "cameraPosition": [
+        44,
+        16,
+        -34
+      ],
+      "targetPosition": [
+        19,
+        2,
+        -19.3
+      ],
+      "description": "The signature SIT landscaped lawn in front of the Main Academic Complex featuring trimmed SIT topiary grass lettering and ornamental shrubs.",
+      "highlights": [
+        "Sculpted SIT Topiary Lettering",
+        "Boxwood & Burgundy Shrub Borders",
+        "Night Landscape Bollards"
+      ]
+    },
+    {
+      "id": "stop-6",
+      "step": 6,
+      "title": "First Year Induction Block",
+      "buildingId": "first-year-block",
+      "cameraPosition": [
+        148,
+        22,
+        -142
+      ],
+      "targetPosition": [
+        113.5,
+        6,
+        -116.8
+      ],
+      "description": "The starting point for every fresher\u2014featuring dedicated classrooms, Engineering Physics & Chemistry labs, and the First-Year office.",
+      "highlights": [
+        "Engineering Physics & Chemistry Labs",
+        "Language & Communication Lab",
+        "First-Year Academic Wing"
+      ]
+    },
+    {
+      "id": "stop-7",
+      "step": 7,
+      "title": "Central Canteen & Indoor Sports",
+      "buildingId": "central-canteen",
+      "cameraPosition": [
+        -16,
+        22,
+        -124
+      ],
+      "targetPosition": [
+        -46,
+        5,
+        -96
+      ],
+      "description": "The hub of campus student life featuring Tutul's Food Canteen, outdoor pavilions, and the 2-story Indoor Sports & Gym Building.",
+      "highlights": [
+        "Central Canteen & Cafeteria",
+        "2-Story Indoor Sports & Gym",
+        "Adjacent Outdoor Basketball Court"
+      ]
+    },
+    {
+      "id": "stop-8",
+      "step": 8,
+      "title": "Campus Hostels & Residential Enclave",
+      "buildingId": "boys-hostel-a",
+      "cameraPosition": [
+        74,
+        24,
+        -46
+      ],
+      "targetPosition": [
+        118.2,
+        7,
+        -28.4
+      ],
+      "description": "Safe residential hostels for boys (Swami Vivekananda) and girls (Sister Nivedita) with mess halls, Wi-Fi, and 24/7 security.",
+      "highlights": [
+        "Swami Vivekananda Boys Hostel",
+        "Sister Nivedita Girls Hostel",
+        "Volleyball Court Courtyard"
+      ]
+    },
+    {
+      "id": "stop-9",
+      "step": 9,
+      "title": "SIT Main Sports Ground",
+      "buildingId": "amenity-1469221619",
+      "cameraPosition": [
+        18,
+        36,
+        130
+      ],
+      "targetPosition": [
+        58.6,
+        2,
+        180.6
+      ],
+      "description": "Full-size football ground with goal posts and cricket pitch hosting annual sports meets, inter-college tournaments, and campus fests.",
+      "highlights": [
+        "Football Pitch & Goal Posts",
+        "Central Cricket Pitch Strip",
+        "Border Tree Canopy"
+      ]
+    }
+  ]
+}

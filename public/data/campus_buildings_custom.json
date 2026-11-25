@@ -1,0 +1,2478 @@
+[
+  {
+    "id": "main-academic-block",
+    "osmId": 1469221648,
+    "name": "Main Academic & Technology Block",
+    "shortName": "Academic Block A",
+    "category": "academic",
+    "levels": 5,
+    "height": 18,
+    "color": "#e0e7ff",
+    "accentColor": "#3b82f6",
+    "description": "Primary academic building housing Engineering departments (CSE, ECE, EE, IT, ECS), Dean & HOD offices, state-of-the-art computer centers, and central lecture theatres.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "G01",
+            "name": "Department of Computer Science & Engineering",
+            "type": "department"
+          },
+          {
+            "code": "G02",
+            "name": "Turing Advanced Computing Lab",
+            "type": "lab"
+          },
+          {
+            "code": "G03",
+            "name": "Artificial Intelligence & ML Lab",
+            "type": "lab"
+          },
+          {
+            "code": "G04",
+            "name": "Faculty Enclave (CSE)",
+            "type": "faculty"
+          },
+          {
+            "code": "G05",
+            "name": "HOD Room - Computer Science",
+            "type": "office"
+          },
+          {
+            "code": "G06",
+            "name": "Main Lecture Hall 1",
+            "type": "classroom"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "101",
+            "name": "Electronics & Communication Engg. Dept",
+            "type": "department"
+          },
+          {
+            "code": "102",
+            "name": "VLSI Design & Embedded Systems Lab",
+            "type": "lab"
+          },
+          {
+            "code": "103",
+            "name": "Digital Signal Processing (DSP) Lab",
+            "type": "lab"
+          },
+          {
+            "code": "104",
+            "name": "Smart Classroom 104",
+            "type": "classroom"
+          },
+          {
+            "code": "105",
+            "name": "Faculty Enclave (ECE)",
+            "type": "faculty"
+          },
+          {
+            "code": "106",
+            "name": "Seminar Hall Alpha",
+            "type": "hall"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "201",
+            "name": "Electrical Engineering Department",
+            "type": "department"
+          },
+          {
+            "code": "202",
+            "name": "Power Systems & Electrical Machines Lab",
+            "type": "lab"
+          },
+          {
+            "code": "203",
+            "name": "Control Systems & Automation Lab",
+            "type": "lab"
+          },
+          {
+            "code": "204",
+            "name": "Classroom 204",
+            "type": "classroom"
+          },
+          {
+            "code": "205",
+            "name": "Faculty Enclave (EE)",
+            "type": "faculty"
+          },
+          {
+            "code": "206",
+            "name": "Classroom 206",
+            "type": "classroom"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "code": "301",
+            "name": "Information Technology Department",
+            "type": "department"
+          },
+          {
+            "code": "302",
+            "name": "Software Engineering & Cloud Computing Lab",
+            "type": "lab"
+          },
+          {
+            "code": "303",
+            "name": "Network Security & Cyber Lab",
+            "type": "lab"
+          },
+          {
+            "code": "304",
+            "name": "Smart Classroom 304",
+            "type": "classroom"
+          },
+          {
+            "code": "305",
+            "name": "Faculty Enclave (IT)",
+            "type": "faculty"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Fourth Floor",
+        "rooms": [
+          {
+            "code": "401",
+            "name": "Electronics & Computer Science (ECS)",
+            "type": "department"
+          },
+          {
+            "code": "402",
+            "name": "IoT & Sensor Innovation Hub",
+            "type": "lab"
+          },
+          {
+            "code": "403",
+            "name": "Central Conference Hall",
+            "type": "hall"
+          },
+          {
+            "code": "404",
+            "name": "Doctoral Research Cell",
+            "type": "research"
+          },
+          {
+            "code": "405",
+            "name": "Audio-Visual Projection Auditorium",
+            "type": "hall"
+          }
+        ]
+      }
+    ],
+    "center": [
+      -12.01,
+      0.48
+    ],
+    "centerGeo": [
+      26.76928564736842,
+      88.37607915789474
+    ],
+    "polygon": [
+      [
+        -40.38,
+        -32.09
+      ],
+      [
+        -7.34,
+        -51.21
+      ],
+      [
+        5.89,
+        -28.33
+      ],
+      [
+        3.58,
+        -22.43
+      ],
+      [
+        16.09,
+        -0.79
+      ],
+      [
+        22.3,
+        0.04
+      ],
+      [
+        36.38,
+        24.37
+      ],
+      [
+        3.34,
+        43.48
+      ],
+      [
+        -14.74,
+        12.22
+      ],
+      [
+        -23.67,
+        17.39
+      ],
+      [
+        -24.7,
+        15.62
+      ],
+      [
+        -23.51,
+        14.93
+      ],
+      [
+        -25.3,
+        11.83
+      ],
+      [
+        -23.73,
+        10.93
+      ],
+      [
+        -25.65,
+        7.63
+      ],
+      [
+        -23.65,
+        6.47
+      ],
+      [
+        -23.45,
+        6.84
+      ],
+      [
+        -19.26,
+        4.41
+      ],
+      [
+        -40.38,
+        -32.09
+      ]
+    ],
+    "entrance": [
+      -5,
+      -3.3
+    ],
+    "elevation": 144.17,
+    "navNodeId": "ent_main-academic-block"
+  },
+  {
+    "id": "management-block",
+    "osmId": 1484218543,
+    "name": "Management & Computer Applications Block",
+    "shortName": "Block B (MBA/MCA)",
+    "category": "academic",
+    "levels": 4,
+    "height": 14.5,
+    "color": "#fef3c7",
+    "accentColor": "#f59e0b",
+    "description": "Houses Department of Business Administration (MBA, BBA), Department of Computer Applications (MCA, BCA), Management Development Centre and Executive Classrooms.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "M-G01",
+            "name": "Department of Business Administration",
+            "type": "department"
+          },
+          {
+            "code": "M-G02",
+            "name": "Executive Board Room",
+            "type": "office"
+          },
+          {
+            "code": "M-G03",
+            "name": "MBA Lecture Hall 1",
+            "type": "classroom"
+          },
+          {
+            "code": "M-G04",
+            "name": "Training & Placement Cell (T&P)",
+            "type": "office"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "M-101",
+            "name": "Department of Computer Applications (MCA/BCA)",
+            "type": "department"
+          },
+          {
+            "code": "M-102",
+            "name": "Database & Web Development Lab",
+            "type": "lab"
+          },
+          {
+            "code": "M-103",
+            "name": "MCA Programming Lab",
+            "type": "lab"
+          },
+          {
+            "code": "M-104",
+            "name": "Classroom M104",
+            "type": "classroom"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "M-201",
+            "name": "Finance & Analytics Simulation Lab",
+            "type": "lab"
+          },
+          {
+            "code": "M-202",
+            "name": "BBA Lecture Theatre",
+            "type": "classroom"
+          },
+          {
+            "code": "M-203",
+            "name": "Faculty Enclave (Management)",
+            "type": "faculty"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "code": "M-301",
+            "name": "Management Seminar Hall",
+            "type": "hall"
+          },
+          {
+            "code": "M-302",
+            "name": "Entrepreneurship & Incubation Cell",
+            "type": "office"
+          },
+          {
+            "code": "M-303",
+            "name": "Group Discussion & Mock Interview Rooms",
+            "type": "facility"
+          }
+        ]
+      }
+    ],
+    "center": [
+      -107.1,
+      -84.44
+    ],
+    "centerGeo": [
+      26.770048533333334,
+      88.37512244999999
+    ],
+    "polygon": [
+      [
+        -99.73,
+        -86.19
+      ],
+      [
+        -97.81,
+        -86.78
+      ],
+      [
+        -96.79,
+        -83.46
+      ],
+      [
+        -95.82,
+        -83.76
+      ],
+      [
+        -94.67,
+        -79.99
+      ],
+      [
+        -102.38,
+        -77.62
+      ],
+      [
+        -103.96,
+        -82.79
+      ],
+      [
+        -113.82,
+        -79.75
+      ],
+      [
+        -112.9,
+        -76.74
+      ],
+      [
+        -114.41,
+        -76.28
+      ],
+      [
+        -113.75,
+        -74.13
+      ],
+      [
+        -116.68,
+        -73.23
+      ],
+      [
+        -120.41,
+        -85.36
+      ],
+      [
+        -117.88,
+        -86.13
+      ],
+      [
+        -118.48,
+        -88.08
+      ],
+      [
+        -115.12,
+        -89.11
+      ],
+      [
+        -115.72,
+        -91.06
+      ],
+      [
+        -107.63,
+        -93.54
+      ],
+      [
+        -106.44,
+        -89.66
+      ],
+      [
+        -103.19,
+        -90.7
+      ],
+      [
+        -101.93,
+        -89.81
+      ],
+      [
+        -100.9,
+        -88.69
+      ],
+      [
+        -100.19,
+        -87.5
+      ],
+      [
+        -99.73,
+        -86.19
+      ]
+    ],
+    "entrance": [
+      -110.7,
+      -77.3
+    ],
+    "elevation": 144.24,
+    "navNodeId": "ent_management-block",
+    "transform": {
+      "position": [
+        -92.13,
+        0.07,
+        -57.29
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "workshop-civil-mech",
+    "osmId": 1484218541,
+    "name": "Engineering Workshops & Civil/Mechanical Complex",
+    "shortName": "Workshop Block",
+    "category": "academic",
+    "levels": 2,
+    "height": 9,
+    "color": "#cbd5e1",
+    "accentColor": "#64748b",
+    "description": "Houses heavy engineering equipment, Machine Shop, Foundry & Welding Shop, Strength of Materials Lab, Surveying Lab, and Civil Concrete Technology Lab.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "WS-01",
+            "name": "Central Machine Shop & Lathes",
+            "type": "workshop"
+          },
+          {
+            "code": "WS-02",
+            "name": "Welding, Fitting & Carpentry Shop",
+            "type": "workshop"
+          },
+          {
+            "code": "WS-03",
+            "name": "Strength of Materials (SOM) Lab",
+            "type": "lab"
+          },
+          {
+            "code": "WS-04",
+            "name": "Fluid Mechanics & Hydraulic Machinery Lab",
+            "type": "lab"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "WS-101",
+            "name": "Civil Engineering Department",
+            "type": "department"
+          },
+          {
+            "code": "WS-102",
+            "name": "CAD / CAM Design Lab",
+            "type": "lab"
+          },
+          {
+            "code": "WS-103",
+            "name": "Geotechnical & Soil Mechanics Lab",
+            "type": "lab"
+          },
+          {
+            "code": "WS-104",
+            "name": "Surveying Instruments Hub",
+            "type": "lab"
+          }
+        ]
+      }
+    ],
+    "center": [
+      -141.49,
+      -40.64
+    ],
+    "centerGeo": [
+      26.769655066666665,
+      88.37477636666667
+    ],
+    "polygon": [
+      [
+        -162.68,
+        -55.16
+      ],
+      [
+        -119.82,
+        -56.75
+      ],
+      [
+        -119.15,
+        -38.68
+      ],
+      [
+        -131.78,
+        -38.2
+      ],
+      [
+        -131.61,
+        -33.46
+      ],
+      [
+        -142.14,
+        -33.07
+      ],
+      [
+        -141.95,
+        -28
+      ],
+      [
+        -161.64,
+        -27.26
+      ],
+      [
+        -162.68,
+        -55.16
+      ]
+    ],
+    "entrance": [
+      -139,
+      -33
+    ],
+    "elevation": 144.04,
+    "navNodeId": "ent_workshop-civil-mech",
+    "transform": {
+      "position": [
+        -142.68,
+        0.2,
+        -43.35
+      ],
+      "rotation": [
+        0,
+        0.075,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "first-year-block",
+    "osmId": 1484218551,
+    "name": "First Year Block (Basic Science & Humanities)",
+    "shortName": "First Year Block",
+    "category": "academic",
+    "levels": 3,
+    "height": 11.5,
+    "color": "#fed7aa",
+    "accentColor": "#ea580c",
+    "description": "Dedicated academic block for first-year engineering students, housing Engineering Physics, Chemistry, Mathematics, Professional Communication Labs, and Orientation Classrooms.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "FY-01",
+            "name": "First-Year Dean & Coordinator Office",
+            "type": "office"
+          },
+          {
+            "code": "FY-02",
+            "name": "Engineering Physics Laboratory",
+            "type": "lab"
+          },
+          {
+            "code": "FY-03",
+            "name": "Dark Room (Optics & Laser Studies)",
+            "type": "lab"
+          },
+          {
+            "code": "FY-04",
+            "name": "Lecture Hall FY-1",
+            "type": "classroom"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "FY-101",
+            "name": "Engineering Chemistry Laboratory",
+            "type": "lab"
+          },
+          {
+            "code": "FY-102",
+            "name": "Interactive English Language & Audio-Visual Lab",
+            "type": "lab"
+          },
+          {
+            "code": "FY-103",
+            "name": "Lecture Hall FY-2",
+            "type": "classroom"
+          },
+          {
+            "code": "FY-104",
+            "name": "Faculty Enclave (Basic Sciences)",
+            "type": "faculty"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "FY-201",
+            "name": "Mathematics & Computational Modeling Hub",
+            "type": "lab"
+          },
+          {
+            "code": "FY-202",
+            "name": "Drawing Hall (Engineering Graphics)",
+            "type": "hall"
+          },
+          {
+            "code": "FY-203",
+            "name": "Classroom FY-3",
+            "type": "classroom"
+          }
+        ]
+      }
+    ],
+    "center": [
+      113.55,
+      -116.81
+    ],
+    "centerGeo": [
+      26.77033927777778,
+      88.37734243333334
+    ],
+    "polygon": [
+      [
+        100.71,
+        -119.53
+      ],
+      [
+        113.47,
+        -129.01
+      ],
+      [
+        117.51,
+        -123.58
+      ],
+      [
+        110.58,
+        -118.43
+      ],
+      [
+        115.28,
+        -112.1
+      ],
+      [
+        122.21,
+        -117.24
+      ],
+      [
+        127.1,
+        -110.65
+      ],
+      [
+        114.34,
+        -101.17
+      ],
+      [
+        100.71,
+        -119.53
+      ]
+    ],
+    "entrance": [
+      119.5,
+      -111.4
+    ],
+    "elevation": 144.78,
+    "navNodeId": "ent_first-year-block",
+    "transform": {
+      "position": [
+        111.47,
+        1,
+        -109.44
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "admin-library-block",
+    "osmId": 1484218538,
+    "name": "Central Library & Administrative Block",
+    "shortName": "Admin & Library",
+    "category": "administrative",
+    "levels": 3,
+    "height": 12,
+    "color": "#f1f5f9",
+    "accentColor": "#0ea5e9",
+    "description": "Main administrative nerve center housing Director & Principal Offices, Registrar, Student Affairs, Accounts Section, and the multi-story Central Digital Library with over 50,000 volumes.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "ADM-01",
+            "name": "Principal & Director Office",
+            "type": "office"
+          },
+          {
+            "code": "ADM-02",
+            "name": "Registrar & Academic Council",
+            "type": "office"
+          },
+          {
+            "code": "ADM-03",
+            "name": "Central Reception & Visitors Desk",
+            "type": "office"
+          },
+          {
+            "code": "ADM-04",
+            "name": "Accounts, Finance & Fee Counter",
+            "type": "office"
+          },
+          {
+            "code": "ADM-05",
+            "name": "Examination Section",
+            "type": "office"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "LIB-01",
+            "name": "Central Library Issue & Return Counter",
+            "type": "library"
+          },
+          {
+            "code": "LIB-02",
+            "name": "General Engineering Book Stacks",
+            "type": "library"
+          },
+          {
+            "code": "LIB-03",
+            "name": "Faculty Reading Room",
+            "type": "library"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "LIB-201",
+            "name": "Digital E-Library & IEEE/Springer Terminal Room",
+            "type": "library"
+          },
+          {
+            "code": "LIB-202",
+            "name": "Quiet Study & Reference Section",
+            "type": "library"
+          },
+          {
+            "code": "LIB-203",
+            "name": "Periodicals, Journals & Archives",
+            "type": "library"
+          }
+        ]
+      }
+    ],
+    "center": [
+      94.91,
+      24.09
+    ],
+    "centerGeo": [
+      26.769073600000002,
+      88.37715490000001
+    ],
+    "polygon": [
+      [
+        100.37,
+        30.76
+      ],
+      [
+        82.81,
+        21.42
+      ],
+      [
+        86.71,
+        14.09
+      ],
+      [
+        104.27,
+        23.42
+      ],
+      [
+        100.37,
+        30.76
+      ]
+    ],
+    "entrance": [
+      87.7,
+      27.5
+    ],
+    "elevation": 144.32,
+    "navNodeId": "ent_admin-library-block"
+  },
+  {
+    "id": "admin-annex",
+    "osmId": 1484218539,
+    "name": "Administrative Annex & Student Services",
+    "shortName": "Admin Annex",
+    "category": "administrative",
+    "levels": 2,
+    "height": 8.5,
+    "color": "#f8fafc",
+    "accentColor": "#0284c7",
+    "description": "Student Affairs, Scholarship Cell, Anti-Ragging Committee, Internal Quality Assurance Cell (IQAC), and Alumni Association Office.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "AA-01",
+            "name": "Student Affairs & Welfare Office",
+            "type": "office"
+          },
+          {
+            "code": "AA-02",
+            "name": "Scholarship & Government Aid Desk",
+            "type": "office"
+          },
+          {
+            "code": "AA-03",
+            "name": "Identity Card & Document Verification",
+            "type": "office"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "AA-101",
+            "name": "Internal Quality Assurance Cell (IQAC)",
+            "type": "office"
+          },
+          {
+            "code": "AA-102",
+            "name": "SIT Alumni Association Lounge",
+            "type": "office"
+          },
+          {
+            "code": "AA-103",
+            "name": "Counseling & Career Guidance Cell",
+            "type": "office"
+          }
+        ]
+      }
+    ],
+    "center": [
+      79.39,
+      45.9
+    ],
+    "centerGeo": [
+      26.768877707692305,
+      88.37699874615386
+    ],
+    "polygon": [
+      [
+        84.76,
+        59.32
+      ],
+      [
+        82.9,
+        58.33
+      ],
+      [
+        81.59,
+        60.8
+      ],
+      [
+        73.44,
+        56.48
+      ],
+      [
+        74.76,
+        54
+      ],
+      [
+        68.95,
+        50.92
+      ],
+      [
+        74.55,
+        40.36
+      ],
+      [
+        70.47,
+        38.19
+      ],
+      [
+        74.29,
+        30.99
+      ],
+      [
+        78.38,
+        33.16
+      ],
+      [
+        83.69,
+        23.18
+      ],
+      [
+        99.5,
+        31.58
+      ],
+      [
+        84.76,
+        59.32
+      ]
+    ],
+    "entrance": [
+      73,
+      41.1
+    ],
+    "elevation": 144.22,
+    "navNodeId": "ent_admin-annex"
+  },
+  {
+    "id": "central-canteen",
+    "osmId": 1484218546,
+    "name": "Central Canteen & Cafeteria (Tutul's Food)",
+    "shortName": "Central Canteen",
+    "category": "canteen",
+    "levels": 1,
+    "height": 5.5,
+    "color": "#fed7aa",
+    "accentColor": "#f97316",
+    "description": "Vibrant campus social hub offering healthy North & South Indian meals, snacks, tea, coffee, fresh juice, and student gathering spaces.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "CAN-01",
+            "name": "Main Dining Hall (150+ seating)",
+            "type": "canteen"
+          },
+          {
+            "code": "CAN-02",
+            "name": "Hot Kitchen & Food Prep Station",
+            "type": "canteen"
+          },
+          {
+            "code": "CAN-03",
+            "name": "Snacks & Beverage Counter",
+            "type": "canteen"
+          },
+          {
+            "code": "CAN-04",
+            "name": "Faculty & Staff Dining Enclave",
+            "type": "canteen"
+          }
+        ]
+      }
+    ],
+    "center": [
+      -50.07,
+      -97.19
+    ],
+    "centerGeo": [
+      26.770163059999998,
+      88.37569626000001
+    ],
+    "polygon": [
+      [
+        -54.6,
+        -93.5
+      ],
+      [
+        -54.73,
+        -102.56
+      ],
+      [
+        -43.26,
+        -102.73
+      ],
+      [
+        -43.12,
+        -93.66
+      ],
+      [
+        -54.6,
+        -93.5
+      ]
+    ],
+    "entrance": [
+      -43,
+      -93.5
+    ],
+    "elevation": 144.39,
+    "navNodeId": "ent_central-canteen"
+  },
+  {
+    "id": "canteen-pavilion-a",
+    "osmId": 1484218544,
+    "name": "Cafeteria Outdoor Pavilion A",
+    "shortName": "Cafeteria Pavilion A",
+    "category": "canteen",
+    "levels": 1,
+    "height": 4.5,
+    "color": "#ffedd5",
+    "accentColor": "#ea580c",
+    "description": "Open-air shaded pavilion adjoining the central cafeteria with seating under garden canopies.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "PAV-A",
+            "name": "Garden Dining Area",
+            "type": "canteen"
+          }
+        ]
+      }
+    ],
+    "center": [
+      -64.87,
+      -96.78
+    ],
+    "centerGeo": [
+      26.770159411111113,
+      88.37554731111112
+    ],
+    "polygon": [
+      [
+        -69.37,
+        -94.01
+      ],
+      [
+        -69.42,
+        -97.08
+      ],
+      [
+        -66.94,
+        -97.13
+      ],
+      [
+        -66.99,
+        -100.03
+      ],
+      [
+        -63.02,
+        -100.1
+      ],
+      [
+        -62.97,
+        -97.19
+      ],
+      [
+        -57.89,
+        -97.28
+      ],
+      [
+        -57.84,
+        -94.21
+      ],
+      [
+        -69.37,
+        -94.01
+      ]
+    ],
+    "entrance": [
+      -68.2,
+      -89.5
+    ],
+    "elevation": 144.36,
+    "navNodeId": "ent_canteen-pavilion-a"
+  },
+  {
+    "id": "canteen-pavilion-b",
+    "osmId": 1484218545,
+    "name": "Cafeteria Outdoor Pavilion B",
+    "shortName": "Cafeteria Pavilion B",
+    "category": "canteen",
+    "levels": 1,
+    "height": 4.5,
+    "color": "#ffedd5",
+    "accentColor": "#ea580c",
+    "description": "Open-air beverage stall and seating pavilion.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "PAV-B",
+            "name": "Juice & Beverage Kiosk",
+            "type": "canteen"
+          }
+        ]
+      }
+    ],
+    "center": [
+      -4.34,
+      -84.91
+    ],
+    "centerGeo": [
+      26.770052779999997,
+      88.37615634
+    ],
+    "polygon": [
+      [
+        -5.92,
+        -80.05
+      ],
+      [
+        -10.16,
+        -87.64
+      ],
+      [
+        -1.96,
+        -92.21
+      ],
+      [
+        2.27,
+        -84.61
+      ],
+      [
+        -5.92,
+        -80.05
+      ]
+    ],
+    "entrance": [
+      1.3,
+      -79.2
+    ],
+    "elevation": 144.45,
+    "navNodeId": "ent_canteen-pavilion-b",
+    "transform": {
+      "position": [
+        -6.45,
+        0.07,
+        -84.91
+      ],
+      "rotation": [
+        0,
+        0.307,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "canteen-pavilion-c",
+    "osmId": 1484218547,
+    "name": "Indoor Sports & Gym Building",
+    "shortName": "Indoor Sports & Gym",
+    "category": "sports",
+    "levels": 2,
+    "height": 8,
+    "color": "#ffedd5",
+    "accentColor": "#ea580c",
+    "description": "Two-story Indoor Sports Complex and Gymnasium facility featuring indoor courts, fitness center, and student recreation halls.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "PAV-C",
+            "name": "Coffee & Snack Counter",
+            "type": "canteen"
+          }
+        ]
+      }
+    ],
+    "center": [
+      -28.83,
+      -101.35
+    ],
+    "centerGeo": [
+      26.77020048,
+      88.37590996
+    ],
+    "polygon": [
+      [
+        -31.59,
+        -109.07
+      ],
+      [
+        -22.92,
+        -108.24
+      ],
+      [
+        -24.69,
+        -89.78
+      ],
+      [
+        -33.35,
+        -90.61
+      ],
+      [
+        -31.59,
+        -109.07
+      ]
+    ],
+    "entrance": [
+      -34,
+      -95.2
+    ],
+    "elevation": 144.45,
+    "navNodeId": "ent_canteen-pavilion-c"
+  },
+  {
+    "id": "boys-hostel-a",
+    "osmId": 1484218476,
+    "name": "Swami Vivekananda Boys' Hostel (Block A)",
+    "shortName": "Boys' Hostel Block A",
+    "category": "hostel",
+    "levels": 4,
+    "height": 13.5,
+    "color": "#bae6fd",
+    "accentColor": "#0284c7",
+    "description": "On-campus residential accommodation for male engineering and management students, with Wi-Fi, dining hall, gym room and 24/7 security.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "BH-W01",
+            "name": "Warden Office & Reception",
+            "type": "office"
+          },
+          {
+            "code": "BH-DH",
+            "name": "Hostel Mess & Dining Hall",
+            "type": "facility"
+          },
+          {
+            "code": "BH-CR",
+            "name": "Common Room & TV Lounge",
+            "type": "facility"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "BH-101-115",
+            "name": "Student Rooms 101-115",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "BH-201-215",
+            "name": "Student Rooms 201-215",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "code": "BH-301-315",
+            "name": "Student Rooms 301-315",
+            "type": "hostel"
+          }
+        ]
+      }
+    ],
+    "center": [
+      118.16,
+      -28.36
+    ],
+    "centerGeo": [
+      26.769544755555554,
+      88.37738888888889
+    ],
+    "polygon": [
+      [
+        110.44,
+        -24.82
+      ],
+      [
+        111.6,
+        -40.79
+      ],
+      [
+        128.89,
+        -39.52
+      ],
+      [
+        126.66,
+        -23.64
+      ],
+      [
+        121.9,
+        -23.99
+      ],
+      [
+        122.07,
+        -26.37
+      ],
+      [
+        115.82,
+        -26.83
+      ],
+      [
+        115.64,
+        -24.45
+      ],
+      [
+        110.44,
+        -24.82
+      ]
+    ],
+    "entrance": [
+      123.9,
+      -33.9
+    ],
+    "elevation": 144.52,
+    "navNodeId": "ent_boys-hostel-a",
+    "transform": {
+      "position": [
+        113.42,
+        -0.12,
+        -24.33
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "boys-hostel-b",
+    "osmId": 1484218477,
+    "name": "Swami Vivekananda Boys' Hostel (Block B)",
+    "shortName": "Boys' Hostel Block B",
+    "category": "hostel",
+    "levels": 4,
+    "height": 13.5,
+    "color": "#bae6fd",
+    "accentColor": "#0284c7",
+    "description": "Senior student residential wing with study halls, indoor games room, and solar water heating.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "BH-GYM",
+            "name": "Hostel Fitness & Gymnasium",
+            "type": "facility"
+          },
+          {
+            "code": "BH-B-G01-G10",
+            "name": "Student Rooms G01-G10",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "BH-B-101-115",
+            "name": "Student Rooms 101-115",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "BH-B-201-215",
+            "name": "Student Rooms 201-215",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "code": "BH-B-301-315",
+            "name": "Student Rooms 301-315",
+            "type": "hostel"
+          }
+        ]
+      }
+    ],
+    "center": [
+      117.43,
+      -12.55
+    ],
+    "centerGeo": [
+      26.76940272222222,
+      88.37738151111111
+    ],
+    "polygon": [
+      [
+        106.65,
+        -7.39
+      ],
+      [
+        108.4,
+        -22.06
+      ],
+      [
+        121.49,
+        -20.51
+      ],
+      [
+        121.01,
+        -16.4
+      ],
+      [
+        124.39,
+        -16
+      ],
+      [
+        123.52,
+        -8.77
+      ],
+      [
+        122.58,
+        -8.88
+      ],
+      [
+        122.17,
+        -5.53
+      ],
+      [
+        106.65,
+        -7.39
+      ]
+    ],
+    "entrance": [
+      122.2,
+      -6.1
+    ],
+    "elevation": 144.47,
+    "navNodeId": "ent_boys-hostel-b",
+    "transform": {
+      "position": [
+        112.57,
+        0.12,
+        -9.81
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "girls-hostel-a",
+    "osmId": 1484218534,
+    "name": "Sister Nivedita Girls' Hostel (Block A)",
+    "shortName": "Girls' Hostel Block A",
+    "category": "hostel",
+    "levels": 4,
+    "height": 13.5,
+    "color": "#fbcfe8",
+    "accentColor": "#db2777",
+    "description": "Secure, monitored residential hostel for female students with attached mess, study lounges, recreational room and round-the-clock matron supervision.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "GH-W01",
+            "name": "Lady Warden Office & Security Desk",
+            "type": "office"
+          },
+          {
+            "code": "GH-DH",
+            "name": "Girls' Hostel Dining Hall",
+            "type": "facility"
+          },
+          {
+            "code": "GH-LR",
+            "name": "Visitors & Parents Lounge",
+            "type": "facility"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "GH-101-115",
+            "name": "Student Rooms 101-115",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "GH-201-215",
+            "name": "Student Rooms 201-215",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "code": "GH-301-315",
+            "name": "Student Rooms 301-315",
+            "type": "hostel"
+          }
+        ]
+      }
+    ],
+    "center": [
+      118.63,
+      -51.9
+    ],
+    "centerGeo": [
+      26.769756255555556,
+      88.37739358888888
+    ],
+    "polygon": [
+      [
+        117.24,
+        -61.95
+      ],
+      [
+        128.71,
+        -61.03
+      ],
+      [
+        127.04,
+        -40.36
+      ],
+      [
+        115.57,
+        -41.29
+      ],
+      [
+        115.83,
+        -44.47
+      ],
+      [
+        114.21,
+        -44.61
+      ],
+      [
+        115.1,
+        -55.8
+      ],
+      [
+        116.73,
+        -55.67
+      ],
+      [
+        117.24,
+        -61.95
+      ]
+    ],
+    "entrance": [
+      126.6,
+      -50.9
+    ],
+    "elevation": 144.59,
+    "navNodeId": "ent_girls-hostel-a",
+    "transform": {
+      "position": [
+        118.63,
+        -0.2,
+        -51.9
+      ]
+    }
+  },
+  {
+    "id": "girls-hostel-b",
+    "osmId": 1484218535,
+    "name": "Sister Nivedita Girls' Hostel (Block B)",
+    "shortName": "Girls' Hostel Block B",
+    "category": "hostel",
+    "levels": 4,
+    "height": 13.5,
+    "color": "#fbcfe8",
+    "accentColor": "#db2777",
+    "description": "Second wing of Sister Nivedita residential accommodation for female students.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "GH-B-G01",
+            "name": "Study Library & Reading Hall",
+            "type": "facility"
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "name": "First Floor",
+        "rooms": [
+          {
+            "code": "GH-B-101-115",
+            "name": "Student Rooms 101-115",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Second Floor",
+        "rooms": [
+          {
+            "code": "GH-B-201-215",
+            "name": "Student Rooms 201-215",
+            "type": "hostel"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Third Floor",
+        "rooms": [
+          {
+            "code": "GH-B-301-315",
+            "name": "Student Rooms 301-315",
+            "type": "hostel"
+          }
+        ]
+      }
+    ],
+    "center": [
+      127.34,
+      -71.67
+    ],
+    "centerGeo": [
+      26.769933785714283,
+      88.37748121428571
+    ],
+    "polygon": [
+      [
+        120.03,
+        -77.75
+      ],
+      [
+        132.37,
+        -74.88
+      ],
+      [
+        131.67,
+        -71.9
+      ],
+      [
+        135.96,
+        -70.91
+      ],
+      [
+        133.97,
+        -62.31
+      ],
+      [
+        117.34,
+        -66.17
+      ],
+      [
+        120.03,
+        -77.75
+      ]
+    ],
+    "entrance": [
+      134.1,
+      -67.4
+    ],
+    "elevation": 144.67,
+    "navNodeId": "ent_girls-hostel-b",
+    "transform": {
+      "position": [
+        127.34,
+        -0.2,
+        -71.67
+      ]
+    }
+  },
+  {
+    "id": "electrical-substation",
+    "osmId": 1484218536,
+    "name": "Campus Electrical Substation & Power House",
+    "shortName": "Power Substation",
+    "category": "utility",
+    "levels": 1,
+    "height": 5,
+    "color": "#94a3b8",
+    "accentColor": "#475569",
+    "description": "Dedicated transformer station, heavy backup diesel generators (DG Sets), and electrical distribution panel for 24x7 uninterrupted campus power.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "SUB-01",
+            "name": "High Tension Transformer Room",
+            "type": "facility"
+          },
+          {
+            "code": "SUB-02",
+            "name": "Backup Generator Control Room",
+            "type": "facility"
+          }
+        ]
+      }
+    ],
+    "center": [
+      49.46,
+      107.76
+    ],
+    "centerGeo": [
+      26.768321985714287,
+      88.37669761428572
+    ],
+    "polygon": [
+      [
+        37.66,
+        118.12
+      ],
+      [
+        47.39,
+        94.27
+      ],
+      [
+        57.86,
+        98.54
+      ],
+      [
+        56.98,
+        100.71
+      ],
+      [
+        58.75,
+        101.43
+      ],
+      [
+        49.9,
+        123.12
+      ],
+      [
+        37.66,
+        118.12
+      ]
+    ],
+    "entrance": [
+      46.7,
+      100.2
+    ],
+    "elevation": 143.98,
+    "navNodeId": "ent_electrical-substation"
+  },
+  {
+    "id": "campus-maintenance",
+    "osmId": 1484218537,
+    "name": "Campus Estate & Facility Maintenance Office",
+    "shortName": "Facility Maintenance",
+    "category": "utility",
+    "levels": 1,
+    "height": 4.5,
+    "color": "#94a3b8",
+    "accentColor": "#475569",
+    "description": "Civil, plumbing, electrical maintenance workshops and campus security dispatch.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "MAINT-01",
+            "name": "Estate Manager Office",
+            "type": "office"
+          },
+          {
+            "code": "MAINT-02",
+            "name": "Tools & Equipment Depot",
+            "type": "facility"
+          }
+        ]
+      }
+    ],
+    "center": [
+      61.98,
+      81.99
+    ],
+    "centerGeo": [
+      26.768553433333334,
+      88.37682358333332
+    ],
+    "polygon": [
+      [
+        48.39,
+        92.53
+      ],
+      [
+        67.91,
+        56.22
+      ],
+      [
+        80.65,
+        63.06
+      ],
+      [
+        66.72,
+        88.97
+      ],
+      [
+        59.79,
+        98.66
+      ],
+      [
+        48.39,
+        92.53
+      ]
+    ],
+    "entrance": [
+      59.5,
+      74.4
+    ],
+    "elevation": 144.08,
+    "navNodeId": "ent_campus-maintenance"
+  },
+  {
+    "id": "main-gate-security",
+    "osmId": 1484218532,
+    "name": "Main Entrance Gate & Security Checkpoint",
+    "shortName": "Main Gate",
+    "category": "entrance",
+    "levels": 1,
+    "height": 4.5,
+    "color": "#e2e8f0",
+    "accentColor": "#10b981",
+    "description": "Primary campus entrance on Hill Cart Road with vehicle boom barriers, 24/7 security personnel, visitor pass counter and CCTV surveillance hub.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "SEC-01",
+            "name": "Security Guard Post & Visitor Register",
+            "type": "office"
+          },
+          {
+            "code": "SEC-02",
+            "name": "Vehicle Entry Boom Gate Control",
+            "type": "facility"
+          }
+        ]
+      }
+    ],
+    "center": [
+      146.67,
+      -99.85
+    ],
+    "centerGeo": [
+      26.77018698,
+      88.37767576
+    ],
+    "polygon": [
+      [
+        149.62,
+        -103.37
+      ],
+      [
+        151.6,
+        -98.06
+      ],
+      [
+        142.26,
+        -94.58
+      ],
+      [
+        140.28,
+        -99.88
+      ],
+      [
+        149.62,
+        -103.37
+      ]
+    ],
+    "entrance": [
+      143.5,
+      -107.2
+    ],
+    "elevation": 144.79,
+    "navNodeId": "ent_main-gate-security",
+    "transform": {
+      "position": [
+        146.67,
+        -0.3,
+        -99.85
+      ]
+    }
+  },
+  {
+    "id": "visitors-pavilion",
+    "osmId": 1484218533,
+    "name": "Visitors Reception & Waiting Lounge",
+    "shortName": "Visitors Pavilion",
+    "category": "entrance",
+    "levels": 1,
+    "height": 4,
+    "color": "#e2e8f0",
+    "accentColor": "#10b981",
+    "description": "Comfortable waiting lounge for visiting parents, guests, and campus delivery personnel.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "VIS-01",
+            "name": "Guest Waiting Area",
+            "type": "facility"
+          }
+        ]
+      }
+    ],
+    "center": [
+      153.17,
+      -101.09
+    ],
+    "centerGeo": [
+      26.770198099999998,
+      88.37774116
+    ],
+    "polygon": [
+      [
+        151.77,
+        -98.13
+      ],
+      [
+        149.77,
+        -103.47
+      ],
+      [
+        155.29,
+        -105.53
+      ],
+      [
+        157.28,
+        -100.19
+      ],
+      [
+        151.77,
+        -98.13
+      ]
+    ],
+    "entrance": [
+      150.3,
+      -108.5
+    ],
+    "elevation": 144.81,
+    "navNodeId": "ent_visitors-pavilion",
+    "transform": {
+      "position": [
+        153.17,
+        -0.3,
+        -101.09
+      ]
+    }
+  },
+  {
+    "id": "academic-porch",
+    "osmId": 1469221647,
+    "name": "Academic Block Grand Portico",
+    "shortName": "Portico Entrance",
+    "category": "academic",
+    "levels": 1,
+    "height": 5,
+    "color": "#f1f5f9",
+    "accentColor": "#3b82f6",
+    "description": "Architectural covered drop-off porch and ceremonial entrance arch for the Main Academic Block.",
+    "floors": [
+      {
+        "level": 0,
+        "name": "Ground Floor",
+        "rooms": [
+          {
+            "code": "POR-01",
+            "name": "Ceremonial Drop-off & Entrance",
+            "type": "facility"
+          }
+        ]
+      }
+    ],
+    "center": [
+      11.51,
+      -15.51
+    ],
+    "centerGeo": [
+      26.76942934,
+      88.37631578
+    ],
+    "polygon": [
+      [
+        3.58,
+        -22.43
+      ],
+      [
+        15.06,
+        -19.36
+      ],
+      [
+        19.23,
+        -12.55
+      ],
+      [
+        16.09,
+        -0.79
+      ],
+      [
+        3.58,
+        -22.43
+      ]
+    ],
+    "entrance": [
+      10.7,
+      -23.5
+    ],
+    "elevation": 144.27,
+    "navNodeId": "ent_academic-porch"
+  },
+  {
+    "id": "basketball-court",
+    "osmId": 1484218550,
+    "name": "Campus Basketball Court",
+    "shortName": "Basketball Court",
+    "category": "sports",
+    "levels": 1,
+    "height": 4,
+    "color": "#64748b",
+    "accentColor": "#ea580c",
+    "description": "Regulation FIBA outdoor basketball court with grey acrylic surface, orange goal-post keys & center circle, white markings, dual hoops, night floodlights, and adjacent sitting bench area.",
+    "floors": [],
+    "center": [
+      -44,
+      -64
+    ],
+    "centerGeo": [
+      26.76982714,
+      88.37574496
+    ],
+    "polygon": [
+      [
+        -61.58,
+        -70.12
+      ],
+      [
+        -30.21,
+        -76.5
+      ],
+      [
+        -26.43,
+        -57.88
+      ],
+      [
+        -57.79,
+        -51.5
+      ],
+      [
+        -61.58,
+        -70.12
+      ]
+    ],
+    "entrance": [
+      -42.11,
+      -54.69
+    ],
+    "navNodeId": "ent_amenity-1484218550",
+    "elevation": 0.08,
+    "visible": true,
+    "transform": {
+      "position": [
+        -44,
+        0.08,
+        -64
+      ],
+      "rotation": [
+        0,
+        0.179,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "central-garden",
+    "osmId": 1469221641,
+    "name": "Central Landscaped Garden & Lawn",
+    "shortName": "Central Garden",
+    "category": "sports",
+    "levels": 1,
+    "height": 3,
+    "color": "#22c55e",
+    "accentColor": "#15803d",
+    "description": "Manicured central campus lawn in front of the Main Academic Building featuring sculpted SIT topiary grass lettering, boxwood hedges, burgundy shrubs, and flowering borders.",
+    "floors": [],
+    "center": [
+      19.03,
+      -19.27
+    ],
+    "centerGeo": [
+      26.76946312727273,
+      88.3763915
+    ],
+    "polygon": [
+      [
+        17.23,
+        -28.83
+      ],
+      [
+        15.7,
+        -26.19
+      ],
+      [
+        15.03,
+        -23.22
+      ],
+      [
+        15.28,
+        -20.18
+      ],
+      [
+        16.43,
+        -17.37
+      ],
+      [
+        17.99,
+        -15.38
+      ],
+      [
+        20,
+        -13.85
+      ],
+      [
+        22.32,
+        -12.87
+      ],
+      [
+        24.82,
+        -12.5
+      ],
+      [
+        27.33,
+        -12.77
+      ],
+      [
+        17.23,
+        -28.83
+      ]
+    ],
+    "entrance": [
+      18.3,
+      -19.1
+    ],
+    "navNodeId": "ent_amenity-1469221641",
+    "elevation": 0.08,
+    "visible": true,
+    "transform": {
+      "position": [
+        19.24,
+        0.1,
+        -16.77
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1.71,
+        1.71,
+        1.71
+      ]
+    }
+  },
+  {
+    "id": "sitting-bench-area",
+    "osmId": 990002,
+    "name": "Basketball Sitting Bench Area",
+    "shortName": "Sitting Benches",
+    "category": "sports",
+    "levels": 1,
+    "height": 1.5,
+    "color": "#b45309",
+    "accentColor": "#15803d",
+    "description": "Roadside paved seating plaza with 5 campus park benches and shrub borders overlooking the basketball court.",
+    "floors": [],
+    "center": [
+      -50,
+      -83.5
+    ],
+    "centerGeo": [
+      26.7699,
+      88.3757
+    ],
+    "polygon": [
+      [
+        -60,
+        -85.5
+      ],
+      [
+        -40,
+        -85.5
+      ],
+      [
+        -40,
+        -81.5
+      ],
+      [
+        -60,
+        -81.5
+      ],
+      [
+        -60,
+        -85.5
+      ]
+    ],
+    "elevation": 0.08,
+    "visible": true,
+    "transform": {
+      "position": [
+        -50,
+        0.08,
+        -83.5
+      ],
+      "rotation": [
+        0,
+        0.075,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "volleyball-court",
+    "osmId": 990003,
+    "name": "Campus Volleyball Court",
+    "shortName": "Volleyball Court",
+    "category": "sports",
+    "levels": 1,
+    "height": 2.5,
+    "color": "#c2410c",
+    "accentColor": "#ffffff",
+    "description": "Simple outdoor campus volleyball court located between Boys Hostel Block B and Admin & Library.",
+    "floors": [],
+    "center": [
+      104.5,
+      4.5
+    ],
+    "centerGeo": [
+      26.7695,
+      88.3769
+    ],
+    "polygon": [
+      [
+        94.5,
+        -1
+      ],
+      [
+        114.5,
+        -1
+      ],
+      [
+        114.5,
+        10
+      ],
+      [
+        94.5,
+        10
+      ],
+      [
+        94.5,
+        -1
+      ]
+    ],
+    "elevation": 0.08,
+    "visible": true,
+    "transform": {
+      "position": [
+        90.08,
+        0.08,
+        2.64
+      ],
+      "rotation": [
+        0,
+        1.258,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

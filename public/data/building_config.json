@@ -1,0 +1,22 @@
+{
+  "posX": -0.06,
+  "posY": 0,
+  "posZ": -4.42,
+  "rotY": -1.021,
+  "scale": 0.83,
+  "atriumZ": 8.3,
+  "atriumWidth": 24,
+  "atriumDepth": 7,
+  "atriumPitch": 0.26,
+  "atriumOpacity": 0.6,
+  "porticoZ": -8.4,
+  "porticoWidth": 22,
+  "pillarHeight": 8,
+  "domeScale": 1,
+  "domeY": 0,
+  "rearZ": 19,
+  "rearDepth": 14,
+  "wallCream": "#f5f0e6",
+  "borderWhite": "#fafafa",
+  "domeSilver": "#cbd5e1"
+}
