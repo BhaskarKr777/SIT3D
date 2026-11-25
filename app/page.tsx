@@ -246,6 +246,8 @@ export default function CampusPage() {
         setIsNightMode(lState.isNight);
 
         setLoadProgress(100);
+        setLoadStatus('Welcome to SIT 3D Campus');
+        await new Promise((resolve) => setTimeout(resolve, 1000));
         setIsLoading(false);
       } catch (err) {
         console.error('Failed to load campus data:', err);
